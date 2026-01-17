@@ -1,0 +1,61 @@
+hi again
+Hi! I had another question
+sure
+It says "If x-2 is a factor of x^2 -bx +b, where b is a constant, what is that value of b?"
+Oh I get it, but how do you find what b is if there isn't another factor?
+okay sorry im back
+that's okay
+there are two ways to solve this problem
+one, see the question mark i drew
+you can name is some variable and solve for it
+it*
+does that make sense?
+kinda
+so you just plug in a random variable and solve the equation for both of them?
+yes
+oh okay
+we know there are two factors, bcs it is a quadratic equation
+but we dont know what the other factor is, so i called it a random variable "a"
+oh okay I see it now
+okay let me show you the other way
+so you know one root of the equation is 2 right
+yes
+so we can solve for b using sum and product of roots
+did you learn this
+no I don't think so
+it's really simple
+I'm in algebra 2 and trig but this is algebra 1?
+no this is algebra 2
+oh okay
+so i've written the general form of a quadratic equation
+so the sum of its two roots is -b/a
+and the product of its two roots is c/a
+this is true for all quadratic equations
+yes I've known and have been using the sum of the roots for a while and I know that that is used to find the x coordinate of a vertex and can be further used to find the y value
+We've never touched on the product of roots
+oh okay
+now that you know
+going back to the other problem, lets say the roots are 2 and some variable "a"
+what ive boxed in red is just plugging numbers into the formulas
+and now you have a system of equations with two variables and you can solve for b
+oh this makes so much more sense
+thats good
+just like that?
+yep
+wait
+i think you forgot to multiple the first 2 by 2
+multiply*
+ohh multiplying the entire equation by 2
+yea
+yes exactly
+bad writing
+oh alright
+no it's all good
+so my final answer is just 4?
+yea
+yay! Thank you so much you are so great!
+aw thank you!
+Don't be surprised if you see me on here again, my teacher has no mercy
+hope you find the topic easier now :)
+Thank you!
+of course

@@ -1,0 +1,641 @@
+All right seems like everybody got the toolkit so well press on
+Joanne whats step one
+Isolate the radical on one side of the equation
+Isolate the radical on one side of the equation
+For this particular example whats our first step going to be David
+Isolate the radical
+Isolate the radical
+Isolate the radical
+Isolate the radical
+Whats it going to take for us to get the radical by itself to divide by
+Yes divide by two
+Very good David
+Thats going to be our first step so dividing both sides by 2 we end up with 4 2 gives us 2
+Whats step two Tobias
+Get rid of the plus one
+Get rid of the plus one
+Jill
+I can get rid of the radical
+Get rid of the radical
+How do we know when we can get rid of the radical Tobias
+When theres nothing outside of it and theres no other part of the equation thats like it
+Yes basically nothing outside of the radical on that side of the equation so were good
+How are we going to go about doing that
+Tobias
+Dont you multiply it by itself
+Dont you square it
+I could multiply it by itself
+Lets say if I did  x  and then Id have x1 over here
+Simplifying this Id end up with x1 but then I have this
+Its not going to go over
+Yes so have I simplified
+No
+Yes thats certainly a strategy were going to use at times so we want to remember that as an option
+In this case what do you think we should do Cordelia
+Then we have to solve the resulting equation
+Were not quite there yet
+Jason
+Square it
+You raise each side of the equation to the same exponent so then youd square both sides
+That is what we want to do
+When we square both sides what happens to the radicals and the exponent
+They disappear we end up with 22 so that gives us x14
+Now we just need to simplify one step equation kind of thing
+Eliza what are we going to do to get x by itself now
+You minus one
+Minus one yes so we end up with x equals
+Three
+Three
+Three yes so weve got that as our answer then
+Whats the next step Nadia
+Youre done
+Were good
+No
+No
+No
+No
+No
+Joel
+You have to substitute the xy back into the
+Right so were going to check our answer
+Were going to stick the three back into the equation basically asking the question does it hold true
+When I solve the left side is it going to equal four
+In this case yes indeed it does
+We want to do all three of those theyre all four of those steps as you Oh no lets do it again weve got another one
+Heres our equation were going to start with
+Jimmy what are we going to do first
+Were going to add one to both sides of the equation
+Now what was step one Joel
+Isolate the radical
+Isolate the radical
+Isolate the radical
+Isolate the radical
+When we add one to both sides will we have isolated the radical or are we done with that
+Yes
+Yes
+Right so we add 1 to both sides so 21 gives us a 3 now weve got the radical by itself
+Carson what are we going to do next
+Whats step two
+We cube each side
+Yes cube each side
+Yes were going to cube each side
+Whatever we have here and whats 33 going to give us
+Twentyseven
+Twentyseven and what happens here
+The radical and the exponent it basically goes away and were left with a two step equation
+Zach whats the two steps that weve got to go through for this
+To get x by itself here whats my two steps
+Cube each side
+Weve done that were left with this two step equation
+Add nine to each side then divide by two
+Perfect now why did you say add nine as the first step instead of dividing by two first
+Because otherwise you would still have the nine remaining
+What would 9 2 give me
+Four point five
+Yes we probably dont want to deal with that
+Can you guys think what is the math reason that we use that says why we add nine first
+Order of operations
+Say that again
+Order of operations
+Order of operations
+What is order of operations
+Refresh our memory
+Its reverse order of operations
+It is its backwards
+We were solving for x this is the rationale and thats why we do that add and subtract first
+Yes you
+I have a question about
+If you add 9 to either side youd be left with 36 then if you divide by 2 you get left with 18 but if you divide it by 2 and 27 then you get
+Thirteen and a half
+If I divide by two what do I have to do
+I have to divide everything by two so well still come up with the right answer
+Were just dealing then with decimals where we dont really have to
+Yes yes you just simplify
+Its not
+Its not so good
+Yes its not too bad but in more complex problems we wouldnt want to be doing that so we end up with the two x36 2 as Zach said and we now have 18
+Then wed plug 18 back into the original equation and make sure that its going to equal 2
+We can take a look at that and so it checks out in this case
+Now what were going to do is these are your first practice problems
+Youve got three practice problems to work with you and your partner
+If you and your partner cant agree then go ahead and talk to more folks in your team
+First three problems on that extra piece of paper you got
+Weve probably done the two on that
+Is that  equations
+No
+No
+No
+Youll see some others that I have
+At any point if you and your partner want to check the answers they are on the monitor at my desk if you want to check for answers
+Thats why I gave you that to get started on
+Isolate the radical
+Isolate the radical
+Isolate the radical
+Isolated the radical
+Isolate the radical
+Isolate the radical
+Isolate the radical
+When you look at the original what is it that I want to isolate
+you want to isolate
+Yes so what do you have to do first
+You have to get rid of this
+Yes because otherwise the radical is not by itself
+Who needs more time on these three problems
+Ladies and gentlemen
+Eyes up on the front please
+Lets see
+Brittany we havent heard much from you so could you read the big paragraph
+Using each side of an equation to the same exponent range of the solutions that are not solutions of the  equation
+C solutions are called x solutions
+When you use  you should always check each apparent solution in the original equation
+This is why the checking becomes really important
+Lets see who else have we not heard from
+Weve heard from Jane but you havent read
+Could you read that attend to precision
+Understand how extraneous solutions can be introduced
+Consider the equation  x3
+This equation has no real solution
+However you obtain x9 after squaring each side
+In this particular example Brittany whats step one
+Isolate the thing
+Isolate the
+Weve isolated the radical so step two then
+Get rid of the radical
+Get rid of the radical so in this case we would raise it to
+A second power
+A second power and we would end up with x29
+Yes
+Wait what
+No x9
+Im sorry yes x9
+If I plug nine back in here whats  9
+Three
+Three
+Thats where were
+Thats showing us that you dont always get the right answer in these problems and so were going to go through some of those
+Technicallycould you just not check it and understand that if its equal to a negative then its not going to have a solution
+Well but if it was a cube root then a negative answer could have been appropriate but then there could still be one right answer and one wrong answer
+One way or another youve got to think about checking it whether you know to check it that wayas you were describing or you just do the math
+Were going to do this particular problem
+Brittany whats step number one
+Isolate the radical
+Isolate the radical so what do Ive to do to isolate the radical in this case
+Brittany
+Yes
+What do I have to do to isolate the radical here
+Its already isolated
+There you go
+Yes good
+Its already isolated
+Step two was
+Get rid of the radical
+Get rid of the radical
+What am I going to do to both sides
+Square
+Square both sides
+Now were getting spicy
+Why are we getting spicy
+Foil
+We do have to foil that
+We have to distribute the
+I still dont know the foil is
+Thats okay because foil is
+Just one method of it
+Yes
+Its a double distribution
+Whats going to happen here Brittany
+Those cancel out
+They cancel out
+What happened between here and here
+I dont know
+You foiled it
+Yes we foiled it first outer inner last
+You got to remember that this means  x
+Ive got the x2
+Ive got one x there and another x there for two over there
+table method
+Table method I think is a great way of organizing to multiply those
+I agree
+Whats step three of the process
+Solve for x
+Solve for x
+How do we solve for x in this case
+Joel what are we going to do
+Im gonna subtract the 1
+You got a different idea
+What are you thinking
+You could subtract 7x and subtract 15 and just factor your brand new trinomial from there
+I could do that and what would I end up with over here
+Zero
+Equals zero
+Establishing zero
+Yes and then we can use the zero product property if we can factor whats left over here
+What would be left over here is an x2 combining these
+A negative I guess
+Combining those
+Minus 14
+Are there factors of negative 14 that add up to 7
+Yes
+We can factor them
+Were going to use that strategy simply because we have quadratic linear and constants all in this
+Now if I didnt have these linear one
+Id put that one over there and then take the square root of both sides
+In this particular case since I have that linear term and the quadratic term I have to go through that process of factoring use the zero product property
+My x values are
+Negative two and seven
+Negative two and seven
+Youve got those
+Whats the last step Brittany
+You solve for x
+We did solve for x
+Oh I knew that
+We got that
+What comes right after that
+We plug it back in and check and make sure
+Yes were going to check our answer
+We have two answers to plug back in so you want to be careful about how you do go through that process
+Lo and behold one of them doesnt come out true
+This is that example of an extraneous solution
+an example of a headache
+Yes its a headache
+We did all of our math correct but because we started doing things like squaring both sides it morphed into something that is not going to really solve the original equation
+Yes
+If I remember it correctly but Im not sure  of the solutions could be correct
+Not that Ive seen so far but I think the answer would be yes
+In your toolkit go ahead and have that toolkit open in front of you we have this little note right here now about extraneous solutions
+Step four lets write a note
+You dont necessarily have to write everything you see here but you do need to write something that explains this whole idea of extraneous solutions
+I will  the song
+The next example were going to go through is where we actually have two radicals
+How are we going to work with more than one radical
+We have this equation that were starting with
+What do you guys think that were going to do
+Talk with your partner
+What do you think our first step is for solving this kind of problem
+Even though we have two radicals and we have something thats outside of a radical were squaring both sides
+Notice that we arent selective about what were squaring
+Its everything on the left and everything on the right gets squared
+What does it look like once we finish that
+Thankfully this side looks a whole lot less complex
+Its really easy to do it
+Then I have to do that whole distribution
+When I multiply this lets look at it
+Weve got  x
+When we look at that and I multiply these two things together Im just left with the x2
+Theres that
+When I multiply those two together and I multiply those two together I get two of those guys
+Thats where we see that we have 2 of the x2 under the
+Then my last one to do is multiply 1x1
+We have that plus one there
+You havent seen problems like this before
+We just have to think through that process
+Now what do you think were going to need to do
+Just simplify
+Were going to do that simplifying thing
+Where do we have some like terms
+Theres a plus two and a three over here
+Also the x
+There is an x and an x over here
+You would just subtract in both sides
+We got this guy here too with the numbers
+What do you think our strategy is here
+Where are we going to put everything Tobias
+I would first of all just subtract all the constants so I would subtract two and one in both sides
+What happens then if I subtract two and one
+What happens over here
+Youre getting rid of the entire three because that equals three so you can
+Yes so thatll go away
+We are simplifying its getting more simple as we go
+Then you subtract x from both sides which will get you negative two x
+Ive got a negative two x
+Then
+Then you divide both sides by two
+Divide by two that gets rid of that
+That gets you back to negative x and then you just square both sides and then it just gives you x2x2
+In other words what Tobias was saying is were going to isolate the radical
+Were basically going back to step one isolate the radical whats it going to take to do that
+We want to get this guy by itself
+Thats all were going to do
+A lot of steps to that
+You got to keep track
+You got to be careful when you draw your radical symbols that youre not making it look like the plus one is included or the plus two is not included
+You got to be really careful when you write them
+As we walk through that process we eventually get to the point that we have isolated the radical
+Brittany after we isolate the radical what do we do
+Yes
+Okay
+We square both sides and were left with x2x2
+Oh my goodness
+Were back at this simplifying step
+Weve got a quadratic we got a linear term weve got a constant
+What are we going to do
+Factor
+Yes were going to see if we can factor so that means everythings going to go on one side
+Do I want to subtract all of this or subtract that
+Subtract the x in the negative two
+Why would I prefer to move these over here instead of moving that over here
+To keep the leading coefficient positive
+Yes so we can have a positive one with the x2
+That is the next step
+Are there factors of negative two that add up to negative one
+Yes
+They would be
+Negative two or positive one
+We can factor
+We can come up with our answers using the zero product property
+Then its time to check
+Lo and behold one of them works one of them doesnt work
+Weve got this extraneous solution thing going on here
+We cant use the x value of two
+We just have one answer
+Were going to practice
+Before I do that
+In these cases if we have calculators which were not going to have the calculators on the test
+Also these arent that hard
+They are only basic equations
+Its not complex stuff
+Its right
+That last one when we solved it even though there were a lot of steps to it there wasnt anything we couldnt do
+going to make us graph that by hand
+No I dont think so
+My guess is more it would be like a level two multiple choice
+Match the equation with the graph or match the graph with the equation kind of thing
+Describe the translations from the parent function kind of thing
+Are we going to have graphs on the level threes
+You mean have to graph things
+I dont know at this point
+Actually I havent seen the test
+Im not making the test this time
+Is the extraneous answer always going to be when x is negative
+I dont know well look for patterns and see
+In looking for patterns it looks like whenever x is negative
+Yes with our sample set
+Pretty small
+In these types of equations if you graph one side of the equal sign and then graph the other so theyve put them in y one and y two we can use the second calc intersect option on the calculator to come up with our answer
+Notice how it only came up with x1
+What did we come up with over here
+Whats the one answer that works
+x2
+Where we plugged in the negative one
+Thats the one that worked
+could have just waited for the question to be answered
+Yes
+Thats okay
+I have a question
+Yes
+Whos making the test
+Mrhow do you say his name
+There we go
+Heres some practice problems that have two radicals in them
+Brittany whats going to be our first step
+Isolate the radical
+We cant if theres two of them
+Square
+Yes were going to square both sides
+when one is a cube root and one is a square root
+Well yes youd probably raised it to the sixth power
+You dont want to do that when
+Can we write these on the paper
+Yes
+This is what youre writing on your paper
+These are problems five six and seven
+Ill have the answers on my screen when youre ready to check
+Which one do you want to move
+How do I factor that
+Joel explain to her how to factor that
+You got all of those
+Yes
+Have you checked your answers yet
+Let it be said that four x is equal to x squared which means that x has to equal four because if something is squared then it means that the number times itself
+Im good at math
+Whats our first step
+Think about it this way if I have negative two x minus two x what would I have
+Negative four
+Yes so I have negative four times the square root
+Then Im dividing by negative four which is quite right
+We got to everything
+Is that what you got
+Now its like Im starting all over again
+Ive got all this and now were back to step one
+I isolated that I square those signs
+Whos done with the three problems
+We got a good group of people done
+Lets just take another minute or so
+Here is number seven for you to refer to
+All right
+Who needs help
+Anybody need help
+Joel did you all do the problem
+Christian Branson can die
+Im not actually going to kill him so please dont turn me in
+Im just having a moment right now
+Okay guys okay
+All right ladies and gentlemen
+Were going to move on to a new example
+Vijay lets come back to your seat
+I was helping Joel
+Joel you too
+Brittany be very careful about how you word the first step for this problem
+What are we going to do
+Whats the goal
+Whats step one for this type of problem because we just switched problems
+What I would do is to make that into a radical and then write
+Or we could treat is as the fourth root to x cubed
+Subtract two
+Isolate it
+Im looking for something along those lines
+Joel
+Isolate the exponent
+Isolate the exponent
+Were not dealing with radicals right now
+Were dealing with rational exponents
+Whatever has this rational exponent remember rational just means its a fraction
+Weve got to isolate that
+Matt whats our first step
+The first step is to minus two
+Yes so well subtract two from both sides
+On the left side we get an
+Eight
+eight
+Now what do we do Cordelia
+You have to like do the flippy thingy
+The flippy thingy
+Where are you making it into the radical
+What are we going to flip
+The three fourth thing
+The three fourth
+What do we call that when we flip it
+I dont know but you flip it
+Reciprocal
+Reciprocal
+Yes reciprocal
+We have four thirds and we got to do that as well
+Because three fourth times fourthirds equals
+One
+Now we have to take eight and raise it to the fourthirds power
+Lets imagine this is a test question and you dont have a calculator
+How do you want to think about eight to the fourthirds power
+Would it be  fourth root of eight
+You find the cube root of eight and thats two and then you multiply that by the other exponent
+Heres where weve got to make sure we understand which one of those numbers goes where
+If you remember that if we said the square root of four is the same thing as four to the one half that helps us remember that the index is the denominator
+I dont know if we could think index has a D in it and its a denominator
+Figure out some way of remembering that
+Obviously it was easier to find the cube root of eight first than it would have been to do the other way around
+We could have said we wanted to find eight to the fourth and then take the cube root of that but I really dont want to multiply eight times eight times eight times eight
+There is a route thats going to simplify that
+Okay
+Last step here Jared
+Divide both sides by two
+Divide by two
+X is going to equal
+Eight
+Yes we check our answer
+Plug eight in
+Turns out it works
+We have our solution
+That is ridiculously simple
+I have a question
+Yes
+Its basically when youre doing the raise each sides of four thirds youre putting the power of the reciprocal of both sides
+Right because whatever we do to one side we got to do to the other and we do it to everything
+Another example
+Whats our first step Brittany
+Well it already is isolated
+It is isolated
+What is isolated
+The rational exponent so like that
+Nice good good
+What are we going to raise both sides to
+Two over one
+Two over one
+Two over one just is
+Squared
+Were just going to square both sides
+Do you have to use brackets or can you use more parentheses
+Typically you see if theres parentheses that use brackets but more parentheses is fine
+would use the bigger parentheses
+Yes thats fine
+We end up with x plus 30 equals x squared
+Joel what are you going to do if I got a quadratic a constant and a linear term
+Subtract the x over
+Subtract the x over okay
+Then you get 30 equals x
+Then what do I do
+Wouldnt it just be 30 equals x
+No because thats x squared
+What do you think
+Go ahead
+You have to subtract the 30 Im assuming
+Weve got the 30
+If we subtract that then this whole thing is going to equal
+Zero
+Are there factors of negative 30 that add up to negative 1
+Oh yes
+Five and six
+Five and six
+Which one has to be negative
+Negative six
+Six will have to be the negative one
+We come down to where we can factor
+Joel when we have quadratic constant and linear terms what do we want to do
+Factor it
+Were going to go towards factoring but in between what do we want to do
+Set it equal to zero
+Set it equal to zero
+Yes
+When we see we have those three different types of terms we want to set it equal to zero we factor so my two possible solutions here are going to be
+Positive six and negative five
+There we go
+Weve got those
+Lo and behold once we check one of them doesnt work
+Lets remember how important that checking process is so that we have the right answer
+All right
+Lets practice eight nine and 10 on your paper
+Yes
+Can we take a break
+Thats on the safe side
+Whats negative 12 times 3 going to be
+Negative 36
+Is there some number times itself three times Remember when we wrote those out here the other day
+Whats two to the third equal
+Two times two times two
+Two times two times two equals
+Eight
+Is eight a factor of 36
+Whats three times three times three
+Thats actually 27
+Will negative 3 times negative 3 times negative 3 be negative 27
+Yes
+Thank you Caroline
+Now I plug in Whats three times negative nine
+The cube root of negative 27 is
+Bingo okay
+Youll plug this in then add it and then take the square root of it
+Nine the square root of nine is three and then
+Who is not done
+Who is not done and needs a little more time
+Ladies and gentlemen our last example
+Last example here
+Were now looking at inequality so what we do if we have radicals or rational exponents and were solving an inequality
+In other words we have an inequality symbol thats the only thing we see thats different
+We could have any kind of algebraic expression underneath the radical so the radicand could be x squared plus four x minus six
+Remember we could have any root we want
+Its going to be pretty similar once weve isolated the radical well raise it to the power
+Theres one thing that we have to consider is values of the radicand that makes sense
+For example can we take the square root of a negative number
+No
+No
+No
+No
+In other words weve got to make sure that if were taking a square root that were considering the fact that the radicand has to be positive
+For example if we ended up having something like x minus two that were working with this x minus two would have to be greater than zero
+Now if I add two to both sides x has to be greater than zero
+Is it okay to have zero in the radical
+Can it equal zero
+Is that okay
+Yes
+Yes because when you take the square root to zero right
+Im going to add a little equal bar
+In this particular case not only do we have to solve the problem but I also have to think about Oh if this has to be a positive value then thats going to put a limitation on my input values my x values my independent variables
+Now were going to solve this guy weve got a less than or equal to symbol
+Brittany what do we have to do
+Divide by three
+Weve got to divide by three so we do that first
+Equals four
+Weve got that now and then what are we going to do to both sides
+Get rid of the radical
+Get rid of the radical so such as a square root were going to square both sides
+Four squared is
+Weve got the x minus 1 is less than or equal to 16
+We then
+Add one
+Add one and so were left with this expression that x can be any values that are less than or equal to 17
+I think  does the inequality symbol ever switch because  divided by negative number you have to switch it
+Right so what would have caused it to switch
+How could I change my original
+Multiply with negative
+Yes because when I divide by a negative I would have had to change that
+When I multiply or divide by a negative number thats when its switched so yes that could happen
+Now I not only have this but now I got to look x minus one because its a square root has to be a positive number so greater than or equal to zero
+X has to be greater than or equal to
+Now I got to combine these two and check does it make sense
+Can I have x values that are less than or equal to 17 and greater than or equal to 1 and how would I write my final answer to show that both of those are true
+X is in between what two numbers
+1 and 17
+Im always going to use a less than symbol and then I have to ask do I need to add the equal sign to it
+Im going to express my final answer with those considerations
+Lets show you the rest of that and then this is checking it on the calculator
+Thats our last example solving like we normally solve plus considering if this guy has  on it if its an even root well have to evaluate that
+Heres our last two practice problems
+Sure is it already queued up or
+No
+No okay
+Do exponents switch to inequality
+Tobias you better be nice to me
+I will
+Dont worry
+Im not going to bully you
+Its just amazing
+Thats it for the examples and then that does mean that Heres the practice problems to go with  plan
+I would recommend that you check the website

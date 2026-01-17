@@ -1,0 +1,261 @@
+All right ladies and gentlemen
+Lets talk about exploration one
+Looking at the paired function by comparison Heres actually the answers so you can check your work really quickly
+Now well review transformation theres two choices
+Were either modifying X or were modifying the entire function
+For this first one did we modify X or the entire function
+Entire function
+What do you think
+What did we do
+What did we modify
+X
+We modified X
+If we modify the whole function it would look something like this
+Our first graph is only modifying X just to get this idea
+Now do we just modify X or do we modify the whole function here
+We modify the whole function
+Right
+Because weve put a negative sign in front of the existing function
+We modified the whole function
+Then this guy
+Modifies X
+Modify X you think
+Yes Well wait
+No its the whole function
+It is the whole function
+It did because theres the x 3 that we see have 2
+All right so that modified X
+Then this last one did we modify X or the whole function
+Which one
+This last one
+The last one modified the function
+Yes
+Yes
+Because we modified X then we modify the whole function
+When I have something like x 3 if Im modifying X Im going to have something with X in it thats cubed
+Thats where I see these parentheses happening
+If Im modifying the function it looks like that
+Now and C should be modifying the function too right
+I got lost track
+All right
+This becomes important because it tells us what were supposed to do
+If Im modifying X what happened
+Hallway partner explain what happens when you modify X
+Here we go modify X
+Modifications in X include reflections across the Xaxis and vertical and horizontal transformations
+What do you think about that
+Just for horizontal translations
+I think thats correct
+Yes but the vertical trans
+A vertical translation modifies the function because its a constant value
+We trust Bu low and Bu low we trust
+All right so
+Youre going to make a new country called Bu low
+Now lets do the same type of thing thinking about what is it that were supposed to modify and work with some  You just got two to look at
+Go ahead and get started with the two here
+All right
+Ladies and gentlemen lets talk about these two
+As our pairing function translated here and resulted in this did it modify X or did it modify the whole thing
+It modified the whole thing
+Right
+Were seeing the modification in X here and were seeing the modification to the whole function there
+Duplicates so these have both things going on
+All right
+Now the toolkit is going to begin with the piece of paper that you have there
+If you would go ahead and pull out your toolkit
+All right so lets update the tracker
+Update your table of contents
+Do I have a table
+All right on the lefthand side we have the keynotes with regards to solving polynomials
+The overall process factor use the zero product property and then you can graph them
+The only thing thats really new from 35 was the rational root theorem
+This is as its expressed mathematically the rational root theorem
+Then for this example down here I basically prompted you all the way through it
+While the big ideas are the factor use the zero product property and then graph I broke it down more thoroughly as you go through the example
+Include the props and then whatever space you need to actually do them
+Dont write all these props out until you just do the first steps see how much space you need and so on
+Note though that I did write up here a couple of other ideas
+First we need to have our equations that equal to zero
+All of the factoring stuff that you learned in Math II is all fair game including the quadratic formula
+If you dont remember what the quadratic formula is then refresh your memory on that
+In 34 we had all kinds of factoring so some major types
+You can expect to see a lot of factoring on the test
+Yes
+Yes
+Theres a cubic formula right
+There is yes
+Is it worth learning
+Yes it would be worth learning
+What the freak is that
+Weve already had it in 34
+It would both the sum and the difference so theres two formulas when it comes to cubes
+Then its factored
+Remember when its squared only the difference of squares can be factored
+The sum of squares cant be factored so there are three patterns along those lines the sums and the differences
+Can you solve Is there a way to solve the sum of two cubes
+Yes
+Yes
+Using rational roots
+Yes
+Yes
+This will work for everything
+Not too shabby
+Since were setting this ratio if my leading coefficient is 1 its fairly simple
+Fairly straightforward
+If my leading coefficient is something other than 1 then Im going to really increase the number of options for what the factors could be
+Our first example is with a 1
+It simplifies the number of fractions of possible factors
+Then the second example well have something other than 1 for the leading coefficient and I just havent picked that one yet
+The only thing right now we have for this toolkit is just what I gave you
+Now it might be interesting to note on here as a way of studying and looking for patterns is to whether or not were modifying X or were modifying the whole function
+For example when I look at this am I modifying X or the whole function
+Youre modifying X
+Im modifying X
+Thats the whole function
+Thats how the whole function is going to look like
+I just copied that function and Im adding something to it
+What happens here
+Am I modifying X or am I modifying the whole function
+Modifying X
+Just X
+Just X
+Then this one is showing that I modified
+The whole function
+The whole function so whatever that function is its all of it
+Youre modifying the whole thing
+Here am I modifying X or the whole function
+Just X
+Just X
+Here Im modifying the whole function
+You notice we have cases where were adding and subtracting
+Were changing signs and were multiplying
+In both cases its a different effect if were doing it to just X which I see as I go down here
+Or if Im doing it to the whole function as I see in those
+It might not be a bad idea to go through and maybe highlight the ones and just make a note
+Im modifying just X in that case
+I like the others
+Im modifying the whole function
+Probably before the end of the day Ill have the examples to do but its just going to be this and a couple of examples
+All right
+The next thing to turn your attention to is If you need glue sticks Ill pull those down too if you want to go ahead and get them glued in
+Otherwise lets move on to the extra practice in the journal so page 93
+Is the transformations of polynomial functions the seventh toolkit
+Its the sixth
+The sixth set is solving polynomial
+Let me doublecheck
+Yes it should be the sixth one
+It should be the next one
+Maybe I have an extra
+Do you have the thing fold up that I can look at
+The what
+Never mind
+Its two days old dont take it
+Its been in my backpack
+Itd be a vertical translation of nine units down
+How do we figure that out
+Right
+What would we have to know
+Typically what are things that wed graph for here
+Whats our strategy
+If I take a function and I changed everything has that affected X or Y
+What we want to do is we want to be able to distinguish  Changing the whole thing
+Its clearly one of the things which obviously
+Yes in this case
+Lets go as far as we can
+I have a theory X3 and X7 which is a septic they are undiscernible on a graph except  does it become more discernible when you add like 4x to it
+bonce off the Xaxis what makes it appear like that
+X is a  on its own is just a flatter parabola at the bottom
+Correct
+When you do X2 and x4 that flatness appears so what makes the balance actually
+You are being very disruptive
+I agree
+Lets keep going on this
+Lets raise our question stem from them
+In some ways its easier because we should be familiar with these ideas
+Yes and it applies the same no matter the
+I think the challenge in this test
+How does that work though
+Not only for synthetic division but how does that tell us that its going to be
+If we find out that 1 has a 0 remainder then we know that x is the factor and what I have down here from my synthetic division tells me what if you started with the  what the cubic is
+What the cubic could look like
+You can look at the cubic and go maybe thats something that you would know how to factor
+Maybe you could recognise that its a part of no
+We have to have a 0 remainder
+Thats the key that tells us that thats an actual factor
+Ladies and gentlemen the answers for 37 are up here
+Youre free to check what youve already got
+G has modified X and then modified the function
+How are you just modify X
+That should start with that step
+How would rewrite this if all was doing is modifying X like that
+Where would you put the negative
+We write this with just that one translation
+What would you do
+Did the second bell ring
+Yes
+All right
+Were just going to take a short break until five after
+Then were going to come back for a quiz
+It will be a team quiz and you can use your toolkit and your textbook
+I feel like expandable
+All right ladies and gentlemen lets turn into teams
+This is going to be no calculators but you
+Lets put the journals away and you can pick your toolkits and textbooks
+You can use textbooks but no calculator
+Phones should be off and off of you
+Calculators need to be put away
+With these  is that what it should look like
+Thats not your answer
+They model up
+Did you get the xintercept
+It says solve
+In other words the values of the variables could make that
+I was just comparing it to his because he got a perfect square  Sorry that got just really anxious
+You do not enter the standard form you wont see a square root but you could have a factor that has a square root
+For this what should I do here
+X
+You got to think of all four factors together
+When you look at  Does it look like that
+The only strategies we have listed right here
+These four and that one
+It got to be one of those five strategies
+If it doesnt then you got to use this
+So theres three terms
+Its either this or that
+You didnt write W2
+Look at the square
+Considering how Mrs Saunders may have constructed the test I am taking a very wild estimated guess that its 1
+For the first one
+The last one is going to be the hardest one because its going to have decimals
+It is good its time to learn now
+Pull out the example
+Theres only three examples in 35 so all the problems are those examples
+Yes
+Yes
+When you have three terms of these theres only one that has got three terms
+After we are done with the quiz Ill show you how to do what you are asking about
+Its not quite straightforward
+All right ladies and gentlemen
+All right so the 35 homework thats what youre doing right now basically is like the 35 homework
+This is all 35 content
+Now of course 35 you cant do without factoring
+Its kind of a combination of 34 and 35
+Obviously how long have we spent on this now so far
+Think about whats next
+Whens our test
+Wednesday
+Wednesday a shorter period
+You have to be able to do these kinds of things in about a halfhour
+In other words youve got to get to the point where you could take this packet and do it in about a halfhour or so
+Why is it on Wednesday and not Tuesday
+Maybe
+Thats just the way the schedule worked out
+No we got Wednesday
+Thats why Im trying to get you to see
+Youve got to know how to do this right away
+Now what Id like to do we only have about five minutes left so put all of the quizzes together make sure youre turning them in as a team
+Then Ill probably give you time tomorrow
+Go ahead and turn them in and then you can leave the books on the desks
+All right Ill turn mine in
+If theres a specific type of problem you want to talk about before you leave thats why Im giving us a few minutes if you want any particular questions about any of the examples
+If you would go ahead and turn off the microphones for me and just leave them where they are

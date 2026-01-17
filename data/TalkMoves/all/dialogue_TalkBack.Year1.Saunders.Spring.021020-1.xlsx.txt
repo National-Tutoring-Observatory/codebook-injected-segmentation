@@ -1,0 +1,358 @@
+All right so for heres the scoop for today so for the first half of class were going to be working on finishing 38 this is where we left off on Friday and got just a few things to show you in that and then also show you one particular skill out of 39 that we need and then well take a short break during the passing period and start the quiz afterward and it is an individual quiz
+There will be no calculator but you can use your toolkit
+Thats the scoop for today any questions on that
+Yes its quite a scoop
+Its a good scoop
+Okay so this is yes
+On your switch
+Yes
+Whats your switch
+If you can show me if we could stamp off all of your toolkits then Ill be happy
+My toolkit is not done
+Theres still one loophole she uses so
+Alright guys Im going to send you a video youre going to like
+Yes
+Yes all right yes
+Thats the
+Yes were like this
+I dont
+Hey would we have the reminder weekly test
+Okay done with this and mine
+Yes I dont know if its
+The question was about the review so the review is out of the textbook and you should have access to it today online but you always have it in the book to be looking at
+If you look at the book it has examples and then the problems
+It refreshes your memory on how to do those problems
+I did eliminate several of the problems from the review because youre not responsible for those so not every problem from the review is there but most of the problem I think its might be 32 of them or something like that
+For the quiz is it just like 38 or is it like the cumulative like that
+Its a wee bit cumulative so the primary emphasis is why Im factoring and solving but theres a little vocabulary stuff in there
+I think its 12
+Squeaky key
+All right so lets refresh our memory on the sentence stems that we used last Friday and I am going to have you work in your teams with this but were not going to change our desks were going to keep the desks like this or just have you turn around in your chairs and so person number one this is your formula and so thats like Brad then Tobias you have two and then three and four
+You dont have to answer them in that order so for example if person four says Im ready to go
+That person can start and what you need to do as youre listening to your teammates is making sure that theyre understanding correctly all of this stuff
+Now why does this become important
+Its if you were asked to graph this this is part of not only your thought process but what you have to do at the end when youre looking at your graph and youre looking at the equation and going Do they match
+These are some of the ideas you need to put together for graphing as well
+When youre done Im going to have your team stand up that way Ill know that your team is done
+Like I said it doesnt matter who starts but go through all of these recognize that like for this bullet therere two choices
+Then notice that I want you to be able to explain why you came up with that answer or how you came up with it whats your strategy
+Right so go ahead and turn in your groups and whoever wants to start can go ahead and get going
+As F of X heads towards negative infinity F of X will decrease
+So well say it moves towards negative infinity
+Did you give it a go
+You should try Grady
+So what did you find as the degree of this
+by multiplying this by this by this squared  Think about what is the degree
+Were done
+Oh are you guys done
+stand up if youre done stand up
+Ill give you guys one more minute
+All right guys open your journals to page 98
+All right guys page 98
+Location principle
+The location principle go ahead Colin tell us what it is
+It acts as a polynomial function and A and B are two real numbers such that FMA is less than zero and that would be as greater than zero that F has at least one real zero between A and B
+Thats a lot of math talk for something thats pretty simple were saying that in this particular case our Yvalue is greater than zero so Y is
+Positive
+If Y is positive that would be up here anything near this pink range is a positive Yvalue
+Ive got some Bvalue and a Y this point could be anywhere in this pink area then the same thing is true over here Y is less than zero so Y is
+A negative
+And its anywhere in here if I have those two and its a connected polynomial I know that there is an Xintercept in between those two numbers thats as sophisticated as that gets
+The wording is tough to work through but the picture makes sense hopefully
+Anybody have a question on that or need to hear somebody else explain it
+To summarize this segment theres one point between A and B thats where Y is zero
+Yes makes  sense
+Oh thats hard to see that theres a zero
+All right moving a long if we were using a graphing calculator and we have a Y and a Y what would have to be true in between
+Thered have to be a zero somewhere in there so that means theres an Xintercept at onepointsomething in this particular case
+Again this is just more about being able to analyze graphs
+Since were not using calculators on the test Im not going to spend much more time on this but you get the concept and thats all I really want to expose you to is that concept
+Then the next concept is turning points all right if you look at just the brown the first statement thats there Christian oh you just took a bite
+Cooper could you read number one for me please
+The graph of every polynomial function of degree N has at most N1 turning points
+The graph of every polynomial function of degree N if I look here whats the degree of this one
+Three
+What would 31 be
+Two
+Two
+It has two
+Turning points
+Thats all this is saying what could the degree of this one be
+Four
+Four could be more than that but basically four so 41 is
+Three
+One two three turning points
+I like this
+Or local min and max this would be a local minimum and I have another local minimum
+In this location I have a minimum and in this location Ive got a minimum as well so we use that term local minimum then over here we have one two three four five
+Quintic
+Quintic 51 one two three four turning points and the reason it says at most was because remember something like this could actually look like that
+It could still be Quintic
+And still be Quintic
+I was going to say couldnt it actually be more than Quantic though couldnt be sextic
+It could
+Yes and you have the right idea that its got to be an odd number because its going in different directions
+Because your sign is there based on what you have
+Thats why you could have any degree
+Thats the first part of these turning points of polynomial equations
+Brad could you read number two for us
+If a polynomial equation has N
+Okay so were talking about zeros
+Zeros means
+Xintercept
+X intercepts
+I have one two three Xintercepts
+I have three minus one or two turning points
+So up here we were looking at the degree of the polynomial
+Here Im looking at the Xintercepts the zeros the roots the solution kind of thing and so I see one two three four Xintercepts and I have one two three one less
+One two three four five Xintercepts
+How many turning points we have for
+Those two go hand in hand because the degree determines
+It also depends though where this polynomial function is
+It could be that actually all my turns are up here and I only have one and thats why you see the word exactly for this particular one cause weve counted the number of Xintercept versus at most that particular number of turning points
+Whats in Italics right there also becomes important
+Any questions on this
+Again more conceptual understanding seeing relationships of polynomial equations and graphs and well skip over these
+This is one that were going to do a little bit of work on and thats something called even and odd function
+Now dont confuse that with even and on degree
+Were still saying even and odd but its about either the degree that weve talked a lot about or in this case even or odd functions
+You got to key in on that particular word and the even or odd degree
+No thats not what were talking about here
+What were talking about is an even function is symmetrical about the Yaxis
+In other words if I took my graph and folded it right here on the Yaxis it would lay on top of each other
+Then an odd function is symmetrical about the origin
+In other words if I took my curve and pinned it down right there and spun it 180 degrees it ended up laying on top of itself again
+All right so two types of cemetery about the Yaxis if this is true well explain that in just a minute or about the origin if this is true
+What we do mathematically notice that they both start with exactly the same thing
+Were going to plug in a negative X and then were going to manipulate it and see if I end up with my original function or I end up with the opposite of the original function
+If I end up with something else then its neither an odd function or an even function
+So what does that look like
+If you want to turn in your text or just follow along on the screen here either will find youd be in the texts at page 171
+This is our first one
+I remember no matter what were testing we just plug in a negative X so every place that I see an X I put a parentheses
+Theres an X with the cube outside of it so thats what I do just the X but parentheses with the negative X in it
+Then the parentheses with the negative X here
+Then I got to do a little math
+Whats negative X times negative X times negative X going to be
+Its going to be negative
+Cause right
+Im multiplying by three times itll still be a XQ
+The negative times the negative here gives me a positive 7X and then I have to rewrite this to look like that
+In other words to get this to look like that Ive got to factor out the negative sign
+That becomes positive inside that becomes negative so theres my F of X I actually do have when I plug in a negative X I have the negative F of X
+We determined them that its an odd function and going back to this an odd function we could say is symmetrical about the origin
+Again this is something that can help us in understanding what the graph should look like
+If I do this type of test I know it should be symmetrical about the origin
+Thats the value of this
+Then we look at the next one
+Again Im just going to take this
+My first step is rewriting this with parentheses every time I see an X and I plug in the negative X
+Now if I multiply negative X four times it ends up being positive and the negative X twice thats going to be positive
+Then I have the 1
+Well look at what I already have
+I just ended up right back to my original function
+Thats the definition of how to test for an even one and that ones going to be symmetrical about the Yaxis
+Only two types of symmetry that were testing Yaxis and about the origin
+Why is it called odd or even though
+Shouldnt it to be a positive or negative function
+Thats really weird
+I know and but in a certain sense thats also what we thought of with odd and even degrees too though is positive and negative
+Yes
+This is one where it doesnt work out in either case
+I take this I plug in the negative X raise that to the third power
+That will be a negative X 32
+Theres no way I can factor anything out of this guy for it to look like that and so that ones not going to be symmetrical about the Yaxis or about the origin
+This idea of odd and even functions there are a couple of problems in the homework of doing this process
+Just make a mental note example four can walk you through that out of the textbook you need
+Yes
+Yes
+On average it seems to be the function with odd degrees
+Well they seem to be tend to be more on the neither side or the odd side at least from what I can tell
+They seem to have that more capability being
+Yes because we know that if I plug a negative and its all positive theyre going to be positive
+Yes youre recognizing some of the patterns that go along with that
+I dont really want to take time in class to practice this
+Im sorry
+Just the time constraints for today
+This is less important than what Im about to tell you
+All right
+Any questions before we leave that
+Again the homework does have some of that
+Refer back to that example to walk through that
+Were actually going to flip over then to 39
+Page 101 has our essential question and Dante could you read that for me please
+How can you find a time on the old model for reallife data
+Hallway partner whats a polynomial model
+Tell your window partner
+All right so Andy what is it
+Something gets modeled with a polynomial
+What does it look like when I say well heres my model
+What am I handing you
+A graph
+I could be a graph or
+A table
+A table or
+A chart
+An equation
+Yes for the most part what were talking about here is actually having an equation
+How can we take reallife data and create equations out of it and what were going to focus on Oh this is kind of cool so just real briefly do you remember when we found the differences in math too
+We were like as X goes up by a specific amount every time and then we start to subtract make the differences between each of the Yvalues and it told us various things about the model that we were working with
+It turns out that if the differences I think if you do it twice its a quadratic if it works out with the third differences are the same I forget exactly but you can go back in and lookup
+Its interesting
+Were not going to go there
+Youre not responsible for doing this but it is an interesting pattern to see
+I know Christian you like to look at patterns
+I do indeed
+This is the only place were going to camp and 39 is on this first example
+Weve done this type of thing with quadratics before
+This is a familiar skill
+We just need to apply it for cubing
+What happens here is youre going to be given a graph or maybe a list of points
+It could be either graph or list of points and asked to come up with the equation for that
+Now be careful on the test if youre asked to do that
+Pay attention to your prompt as to whether or not you have to leave your final answer in a certain form
+If it doesnt say this would be fine
+It might say standard form in which case then you actually have to multiply all that out
+Refresh your memory on how to multiply that out
+Step one were going to use our Xintercepts of 4 to create the factor X4
+How
+Xintercept of 1 X1 intercept of 3 X3
+What is this for this A value
+Window partner
+Explain what that A is all about
+Window partner go
+Slow
+Does my red polynomial have the same Xintercept
+Would that be imaginary
+Or what if it looked like that
+Would that have the same Xintercepts
+Yes
+Yes but its a much  function
+What makes the difference
+The A
+The A right
+Thats why we have to know how are these Xintercepts in a sense being modified to come up with that specific graph
+Yes
+Yes
+When you multiply into standard form do you multiply the set of intercepts by themselves in that A value or do you distribute it or
+If I asked you to do that tell me how to do it
+Just go across then okay
+You pick two and multiply them
+Ill just pick those two and multiply and I get an answer
+Then I multiply by the next guy
+Whats the answer to this going to be or do I do 2x3 and get six and 2x4 and get eight and multiply that together to get 48
+Multiply with the 1 2 by the X4 and move that to X times the X1
+Right
+It doesnt matter right because 2x3x4 is the same thing as 3x2x4 so it doesnt matter what order you go in
+You might look at a couple of these and what if this was X4 and X4
+Well thats the difference of two squares
+I can easily combine that
+You might look to see which ones make more sense
+I wouldnt want to multiply the 1 2 times an odd number probably
+Okay so just multiply them all basically
+Yes multiply them all
+We have the setup with this and then we have to find another X Y point to plug in there
+Well either be given one or I can look on the graph and go you know what that is crossing right there and I can put that point in or Im told the point as an extra point
+I cant put in one of the Xintercepts because Ive already accounted for those here
+It has to be a different point other than the Xintercepts
+We can plug in the X and the Y
+Of course if we have the Yintercept really nice we can plug in zero for X makes that calculation a whole lot easier
+We go down and we end up finding A and then dont forget before youre done that you actually plug that A value in and specify that as your last step
+How do you check
+You use all of that stuff we just talked about
+Youll look at this youll look at that
+Does it all make sense
+Thats your sanity check on it
+For the rest of this period Im going to have you work on these first four problems to practice coming up with the cubic equations finding the A value all that sort of stuff
+Lets see
+The bell for this is at 1007
+Youve got 12 minutes to work on that four problems
+Can you do it in three minutes each
+Give it a shot
+See if you can do it in three minutes
+Im going to have you stop working on that one
+Now go back to this one and see if you can figure out how to start
+If it is in parentheses I get three and then do I subtract it over or do I divide it over
+Well what are we doing with all of those
+We said its equal to zero
+Well actually you said its equal to three
+so then do I subtract this over here
+Well what are we doing with all of these things here
+We adding subtracting multiplying or dividing
+Multiplying
+Multiplying so multiply them all together and what do you get
+3 times A is 3
+So then write equals 3A
+Then 3 on the left side just to
+So now what are the 3 and the A doing
+Are adding subtracting multiplying or dividing
+They are multiplying
+So  equals X
+Exactly
+So you divide both sides by 3
+Then Ill have to write out the whole thing
+Yes
+Yes
+Do we have to do exercises 5 through 8
+No
+What on the graph tells me something is squared
+Its when it does what
+so which one of those factors gets squared
+X1
+Thats where it bounces
+See it bounces there
+That factor is X1
+Andy a little selfdiscipline never hurts anybody
+Andy I think you have some work
+You are not staying on the right page over here
+So heres a template
+The reason I wrote this twice  I can go ahead and just plug in the Xintercepts
+If its supposed to be a cubic one of those two has to be a repeated one
+I got to put a square on one of those
+Because my template was X1
+This is where its bouncing so my X1 is the one thats going to be squared
+Look at what I have
+Now the extra point is already here
+Thats the X so I am going to put a 2 in there
+Heres my steps
+My first step was just to plug in the Xintercept my second step plugging in the point there
+Hopefuly that help give a template that you can always use to start the process
+So theres my template I have two Xintercepts
+Now what are my two Xintercepts
+1 and 1
+One of these is going to have to be squred because theres a cubic  Which of those Xintercepts
+What happens at 1 thats different than 1
+All right guys this is the time to take a little bit of a break to get up walk around if you need to throw up awater bottle
+When the bell rings were going to start the quiz
+All right guys were going to split up the desks into rows
+Lets just make it easy for your teams and have you just go to those desks
+Neil just go the behind Cody then you can go to the last desk up there
+Are we allowed to use the books too
+Lets say that you can do that
+Brad just asked about being able to use the old quiz in addition to your toolkit lets say you can do that
+You can use this and just the toolkit but no calculators and yes no textbooks
+You can put your textbook and journal away
+Toolkits the practice quiz as it turned out to be no calculators phones need to be off and off of you
+Theyre not in your pocket
+Theyre in your backpack
+You guys need to split
+You guys should be
+Toolkits and the quiz you could use those
+Actually you can turn off the microphones and bring them back up to my desk
+Hold down the little power button
+I am going to have you sit in this desk
+You put that away
+Take all the other stuff out it then
+Thank you
+Youre welcome
+You want to take it
+Yes sure
+There you go
+Everybody has got a test
+A quiz rather
+Lets go ahead and write the time at the top of your paper
+Right now its 1016
+You got 12 problems here
+What youre going to do is figure out okay how long does it take me to do 12 problems knowing that on Wednesday theres 20 multiple choice
+You get an idea are you ready Are you pretty good today for the multiplechoice on Wednesday or youre going to have to get a little sharper so you can go a little faster
+A chance to check out how quickly can you get stuff done

@@ -1,0 +1,112 @@
+hello
+hi
+what do you need help with today
+I need help with simplifying radicals with variables
+okay
+is there a specific problem?
+yes kind of
+okay show me
+the square root of 5121?
+my computer froze for a second
+sorry about that
+oh okay
+so it is the square root of 512K^2
+yes
+okay you know you that the square root cancels any square inside it
+did you follow that
+yes i did
+so what i would do to simplify the square root of 512 is to take the prime factorization of it
+do you know what prime factorization is
+yes
+it is a factor that is also a prime number
+well that is an element of it yes
+but prime factorization describes the original number as a multiplication of one or more prime numbers
+thus the prime factorization of 512 is 2^9
+did you follow
+ok
+i follow
+so what i boxed is the final answer
+i have another question
+what is it
+that would be the answer
+yes
+did that make sense
+ok so you found the square root of a 100 and ^3
+v^#
+yes
+my next question is
+the square root of v^3 simplified to vrtv
+what are P, r, and t
+they dont tell me
+so assuming it is P times t times P times r times t
+i cancelled P from the numerator and denominator
+then i simplified t times t as t squared
+how did you get t squared
+?
+these are all possible answers because the order does not matter
+i got t squared from  the two t's in the numerator
+i got 1+rt
+is that a plus sign or a t in the numerator
+yes
+yes then you are correct
+it is 1+rt
+ok
+so you cancelled dc
+cd
+yes
+because they are in every term
+and then divide by 4
+yes
+oh ok
+did that make sense
+yes the work was erased though
+you cant see any of it?
+no
+oh
+i dont know why
+do you need me to rewrite it
+yes
+do you see that
+ok i get it now
+okay thats great
+do you want to try one
+sure
+im lost
+okay
+so your prime factorization of 16 was correct
+it is 2^4
+so now what you have is
+right
+hello?
+ok
+okay so the 2^4 comes out of the square root as 2^2
+does that make sense
+can u explain it one more time
+see my example
+that is the rule of square roots right
+right
+so if we look at 2^4
+that is really (2^2)^2
+yes
+so the square root of it should be 2^2
+did you see what i did there
+oh that makes more sense
+okay
+so now lets look at x
+it can also be written as x^2 times x right
+ok
+we know the square root of x^2 is x
+therefore i took x^2 out of the root
+ok
+does that make sense
+yes
+so now y
+the square root of Y^2 is just y
+so it comes out of the root
+and the simplification is done
+Ok thanks for the help i really appreciate it
+no problem
+come back any time if you have more questions
+of course!
+goodnight then
+yes have a goodnight!

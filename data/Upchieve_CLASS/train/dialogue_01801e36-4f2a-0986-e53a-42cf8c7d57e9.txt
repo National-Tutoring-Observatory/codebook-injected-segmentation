@@ -1,0 +1,106 @@
+hello
+what would you like help with today
+what are the rules to perform a rotation?
+hello
+like change in coordinates?
+yes
+so
+if we have this point
+and it rotates 90 degrees clockwise
+the new point is
+i switched the coordinates
+and the second coordinate is negative, because it is in the 4th quadrant
+but why?
+ohh you read my mind
+thats what i thought
+as well
+i wanted to ask you another question
+may i ask you another question
+thank you for bringing back my question
+yes
+sorry
+the screen is glitching
+ohh i thought you were playing me
+i just want to show
+if you draw a line
+from both points to the origin
+they make a right angle, which is 90 degrees
+ohhh i see
+so my next question is
+yes
+if the triangle drawn is rotate 90 clockwise around coordinate (0, -2)
+where would it be?
+so
+it is a little hard to visualize this without a computer
+so you can do this in terms of coordinates
+is this point
+(-1,1)?
+no it is (-3, 1)
+okay
+so normally if a point is rotated 90 degrees clockwise the coordinates change from (x,y) to (y,-x) right?
+ok... so where would the new rotate figure be?
+well we have to change the coordinates according to the rule
+but from (x,y) to (y,-x) is for rotation around the origin
+so we imagine (0,-2) as the origin
+so what should we do different when it is rotated around a point that is not the origin?
+so if (0,-2) is the origin, the x-coordinates of the triangle don't change, but the y-coordinates should increase by 2
+do you see that?
+yeah
+okay so now to rotate 90 degrees we just swap the x and y coordinates and make the y-coordinate negative
+should it decrease being that it was -2?
+you subtract -2 from the original y-coordinate
+from the graph you can see that the distance from the bottom of the triangle to the x-axis was 1
+but from y=-2, it's 3
+yes
+so the height has increased by 2
+okay so now we just use the rule for rotation
+ok
+do you want to try changing the coordinates
+no these are fine
+i mean
+do the rotation
+remember to rotate by 90 degrees, (x,y) changes to (y,-x)
+so for example point A will change from (-7,7) to (7,7)
+and remember
+so C' should be 3,3
+yes
+B' 7,3
+and remember that the origin is (0,-2)
+not (0,0)
+B' should be (3,7)
+now i m a bit lost
+you told me that we should change to -x,y
+so both A' and C' were fine but y is B' different
+no i said it changes to (y,-x)
+you swap the x and y coordinates and then make the y coordinate negative
+ok
+got it
+okay
+so A changes to (7,7)
+yeah i see it now
+thanks
+okay
+alright it was a pleasure receiving your help
+have a wonderful evening
+:)
+actually one more question
+yes
+if it was rotated 180 degrees instead of 90
+the coordinates change from (x,y) to (-x,-y)
+because now it will be in the 4th quadrant right?
+yes exactly
+what happens to the rules when the figure is between one of the axis
+lets say half of the triangle is over the -x axis
+the same rules will apply
+got it
+just make sure to do each individual coordinate
+i know its hard to visualize
+alright
+now for realz
+i know it is hard
+but i have to let you go
+trust me, it is not you... it is me
+thanks for your help
+okay no problem
+come back any time
+sure will.

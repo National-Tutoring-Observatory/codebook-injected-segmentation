@@ -1,0 +1,79 @@
+hello?
+hi
+hi again
+did you need more help
+i came across another question that i need help with
+okay is it the one already written
+yes
+okay what is the prime factorization of 216
+2 and 108
+remember prime factorization can only have prime numbers
+108 can be simplified further
+3 and 36
+remember what i did earlier
+yes
+see 2 and 108
+now you need to simplify 108
+thats closer
+but 36 can be simplified
+oh 3 and 3
+am i right
+what two numbers multiply to 36
+not quite
+6 and 6
+okay good
+now how can 6 be simplified
+3 and 3
+3 times 3 is 9
+3,2
+yes
+so if you look at the board
+uh
+im so sorry
+i deleted it by accident
+it ok
+okay so looking at my chart
+how many 2's are there
+thers is 4 2<s
+are you sure you counted correctly
+no wait 2 2's
+almost
+i circled them in red
+3 2's
+yes
+and how many 3's are there
+2 3's
+almost
+3 3's ?
+yes
+are you counting what i am counting?
+yes
+okay
+so thus the prime factorization of 216 is 2^3 times 3^3
+does that make sense
+yes
+did that make sense
+yes that makes more sense
+okay
+and the v
+since it is not squared
+it can not be taken out of the square root
+it stays the same
+yes
+exactly
+so you're basically simplifying the 216 only not the v since it is not squared
+yes
+you should always prime factorize numbers if they are not already prime
+otherwise you can not see you can take out 6 from the root
+what do you mean
+?
+by taking out the 6 from the square root
+from the prime factorization i saw there was a 6^2
+the square root of 6^2 is 6
+so that is why it is on the left side of the root
+oh that clears everything
+i get it now
+okay that's great
+thanks for the help again
+no problems
+have a good night :)

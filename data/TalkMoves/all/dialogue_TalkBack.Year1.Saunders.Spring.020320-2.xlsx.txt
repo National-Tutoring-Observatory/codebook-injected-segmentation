@@ -1,0 +1,541 @@
+All right ladies and gentlemen we are going to have to set this aside for whatever questions you have you need to make sure youre getting those questions answered this was more just a jump back in and see if youre remembering how to do that can you use the examples to figure out how to do it
+We need to move into todays material but hopefully this is a motivation for you to either ask friends ask parents if they know how to do that stuff come to Academic Support so that you know how to do those problems
+These are just reminders you already have your test scores how many tests do we have this quarter
+Five
+Five so weve had two down all right are you happy with your grade and with where youre at
+If you are great if not then its time to start choosing to figure out what youre going to do about it
+Thats on you to figure that out
+If you need help or suggestions let me know but thats on you to work to figure out if you need to change your grade
+The homework theres homework for 31 two and three each due by midnight today so thats what the due day it is
+Im hoping that you have those four toolkits done if you dont hurry up and get them done
+Retaking the HEO2 test you should have that back if you were absent last week when I passed it back just let me know and Ill get it back to you
+If you want to do the retake on either the level three or the level four you need to do your test corrections on those two and thats what the pink and the yellow sheets are up here make sure you pick up those and theyre due by Friday
+In other words you have Academic Support tomorrow and Thursday to work on those
+Academic Support for math threeblock is both in here and in D2O5 so either of those two rooms
+Our test on this unit is February 12th and it is a Wednesday and you really got to know your material in order to finish the test on time there so dont delay
+If you cant sit down and know what to do with these division problems like you have sitting in front of you youre going to be in a world of hurt because if you spend 20 minutes on a division problem on the test you will not get to other things
+Youve got to be able to look at these problems and get them done within a few minutes time and thats going to be true for a lot of different things
+Today were going to go over a lot of different factoring strategies youve got to be able to stay on top of it
+We do move quickly theres not really too much I can do about the moving quickly part but Im here to help you as we go through it
+Questions or comments on any of that
+Yes sir
+I have a question about the
+You do because the format if you look at the very top of the page in 33 it shows its XK is the factor if youre dividing by X2 and you were to write it in the X minus format you would have to put a 2 there so yes it is the opposite value so when you set up you got to put the 2 for this particular example
+All right cool
+Already page 75 in your journal were going to start in the journal with page 75
+In Academic Support tomorrow I do have the answers to those purple sheets if you end up wanting to come check answers Ill have this available tomorrow during Academic Support
+All right page 75 our essential question is pretty short were just factoring polynomials
+Remember a polynomial could be as simple as this or maybe as complex as this
+For this particular polynomial what root do I have
+What Xintercept is this represent
+Zero
+An X of zero this would be an Xintercept of
+and
+Five
+And
+did I hear 6
+Yes
+All right and whats going to happen here at 1 for this particular one
+It bounces
+It bounces it touches the Xaxis then just goes right back off of it it does not go through it any even exponent means that I bounce off of that
+Whats the degree of this polynomial right here
+Two
+Two
+Two
+I havent heard the right answer yet
+Five
+Two
+Five
+Five because one two three four five all right because this is a repeated root
+So thats a degree five is it positive or negative
+Positive
+Positive
+Positive so that means my general direction my end behavior is increasing its probably something like one two three four five something like that with Xintercepts
+Lets see lets go over here we said if youve got an Xintercept at 0 1 it is skinny then five and 6 and we have to bounce at this guy
+My squiggle up at the top says Im going to do something like this I have to bounce off of that guy then Im going to go down through that and its going to go up like that
+Say it a little louder
+How can we only bounce off in the middle
+Because its a repeated root and see the square there I have X1 and X1 when I have it repeated it bounces
+Think about the vertex form do you remember when we had our vertex form AXHK and this guy was squared
+Its a repeated thing and it would bounce on that in this particular case
+If you have three its going to be just like these that just have a one on them it is going to go through so two four six eight it bounces
+One three five seven nine itll go through the Xaxis
+We will call this sketch because we dont really know how high these peaks are but we just have the Xintercepts and we use that along with the information about end behavior
+Lets figure out how we can factor those by starting here
+Oh I dont want you to see the answers yet
+In this first one youre going to look at these equations and figure out which matches with it if I look at this guy this guys A what function family
+Quadratic
+Quadratics are in the shape of a parabola somebody saying its C could it be are any of these a parabola
+No
+No hes right it does have to be C now the next thing that it asks is to use the Xintercepts looking at C what are my two Xintercepts
+1 and 4
+1 and 4
+When I write an equation for this what do I do with those two numbers
+X1 up top
+Thats as much as youre going to do with each one of those
+Obviously thats the easy one because there was only one quadratic and there are one two three that are degree three a couple that degree four
+Think about how youre going to much those up and have conversations with your partner you guys should be making decisions together as you go
+Have those conversations and work through the rest of those
+Youre going to  Youre going to use those  to write the equation
+You are not factoring this you are looking at this to create the factors
+Do we stand up when we are done
+You are done already
+You have to write the factored form
+See how I wrote the factored form
+Dont forget that part
+How many partners are done
+Just a few all right
+If you and your partner feel confident about your answers then make sure at least one of you has a graphing calculator and youre going to use the graphing calculator to find the Xintercepts for exploration two
+Graphing calculator youll put the equation in use your calculator to find the Xintercepts and write your factored form equation
+If you put this into Y1 and your factored form in Y2 theyre better to trace each other
+Thats how you can check your answer
+Instead of multiplying you actually put both of them in the calculator and see if they overlap each other
+Graphing calculators if youre done with exploration one
+Yes good question
+They both have 0 0 as our next intercept
+They actually have different X intercepts it looks like 1 here and 2 here
+If I put 1 into the two equations and its this one and this one those two so this one looks easier only two terms
+If I put 1 in if I get 0 then its up
+If I put 1 in and I get a positive Y value its down
+You just plug in a point
+Well thats X2 4 if you multiply it out
+If you leave it like that its totally fine
+Were leaving it like that or
+Yes because you want to see all the factors listed out like that
+Since its X3 would say there are like for Xs including this one or would it be three because
+The degree of the equation is simply the highest exploration whatever the biggest exponent is
+It does
+If its degree 3
+What else did you use to like
+The equation
+Keep plugging a point
+If you are comparing two graphs with two equations find a point that they dont have a
+What axis is that one
+What do we call that vertical axis
+Whats that called
+It doesnt have a letter
+We have a Yintercept
+If the Yintercept is 0
+Whats the last thing that isnt there in the equation
+Whats true about that 2
+Thats the Yintercept
+then its zero
+We can tell
+Thats crossing at and that is crossing at and that one is crossing at the Yintercept
+Theres two that have the same Yintercepts
+Whats the yintercept here
+And whats the yintercept here
+Wheres one that has a 2
+thats cubic because its got three directions
+Go ahead and answer the two questions for the communicate your answer
+It hasnt been decided
+I think you will have a calculator for the level three and four but for the twos
+Dont quote me on that yet because we havent finalized the test
+How do you enter a 4 as the Xcoordinate
+We only have this put in the square but if you hit the  thats what it does
+Guys youre done
+Go ahead and answer three and four and then you are done there
+You guys are stuck
+Seems like youre waiting for the other person to do something
+You dont have a graphing calculator
+You got to type in the equation
+Type in the equation  So look at the graph  Go ahead and write that down  Now Im going to show you something neat
+Send the cursor all the way over to the far left
+Now watch what happens when you hit enter
+See how its thicker
+All right so now hit graph
+Now the thicker line should go right over top what you have
+That way you know that they match
+There you go
+All right ladies and gentlemen answers three and four if youre done with exploration two
+Lets see
+I got that right
+Got that right
+Do we have to go outside in the snow
+What were doing is just the X is good but is that what were supposed to do if X is 0
+Yes perfect
+You could always show your work right
+X  0 but then youre dont have to leave that for your final answer
+So we just leave this as our final answer
+Yes
+Yes
+Yes we got it right
+Yes in a bit
+All right ladies and gentlemen the toolkit for today this is how were going to get started
+Lets go ahead and open up your toolkit
+This is the fifth toolkit and were going to get started on this
+May I use the restroom
+After youll wait until after Im passing through
+Welcome back
+Ms Saunders
+Yes
+Yes
+How do you do
+Ill come show you in a sec
+Just a minute
+Ms Saunders one thing  one but what do you do when you get a Y intercept
+Obviously with that you can factor an X out of it  otherwise you cant factor it right
+look for a different common factor
+Yes and were going to go over some different options
+It will be its not right now but it will be  even better
+All right does everybody have at least this first couple of bullets
+Yes
+Youre at least down to this area because I want to scroll it up so you can see one more thing right here
+This first part of this toolkit are the things from math two that you should have gotten pretty good at
+If you didnt master them nows the time to make sure you understand how to do these
+All of these titles that are underlined here you could do an internet search for practice worksheets in fact all of those probably have a Kuta software KUTA Kuta software practice sheet
+If theres any of those that youre a little unsure of just search by this title see what kind of worksheets they have if its a Kuta worksheet you know that theyll include the answers with them so you can get some practice
+Any of these that youre writing down now these need to be solid for the test because really what were going to be doing is building on them
+Then of course you can come in during the Academic Support and we can work some together too
+The last one is probably the one that I would assume that everybodys the weakest on is being able to recognize that this is actually a repeated factor both of these its the repeated factor
+the first one
+The cube
+You have to do this
+Maybe it mightve been the first thing you wrote down at the top you should always do that first in this case is there a common factor
+No
+When I look at these three terms what do they have in common
+X
+Yes when I pull the x out Im then left with a quadratic then its going to be your trinomial factoring
+Thank you all right who needs more time copying this down
+All right lets give the rest of you a five minute break and those of you as you finish up you can take a short break
+Well start back then at 20 after if you want to step out in the hallway thats fine I do need to know if youre going to go down the hallway to go to the bathroom or get a drink let me know because I dont want a lot of people going down there and make sure you stay down to the left of our door here just so that were not bothering the other classes
+Yes then you use parentheses
+Yes perfect
+Oh you could do factor by grouping
+How else would you do it
+Since A is 1 its also the factors of C that add up to B that would give it to me right away
+Wait so then we just group
+If I looked at this and applied this idea
+Yes so x4 its your factor form
+There you go
+Can I go to the bathroom
+Yes go ahead  example two the difference  Oh you know what
+Im confused about how to do that one too because its missing something  yes go ahead  its supposed to be 25 in other words if its two squares then I should be able to write each term as a square
+Whats the square root of 25
+What would be the square root of x6  so I can write that as 2  right but powered to a power What do I do with the exponent
+Multiply
+Multiply so 3 times 2 gives me six then over here
+Now I want to write this one as something squared 8X2
+A power to a power means that that would be X to the fourth and 8 times 8 is 64 so that gets me the setup the way its supposed to look then look what happens here its AB and AB in my case thats A and thats B
+Then I also have to ask myself though can I now factor this further
+Now this applies the difference of two squares which is really what this is about but if I want to keep going
+You can factor X2
+Yes I can factor X2 out of everything I would do that then keep going and I could have done that over here too I could have looked at what could I factor out first and factor out the X to the fourth then Im left with
+All right guys were going to get started
+Were going to switch over to the textbook and walk through some examples
+The first example is on page 146
+Page 146 is going to take that first thing that was in that toolkit that said always think about what you can factor out
+If I look at this guy what can I factor out
+We see that theres a 2x that can come out of that
+Always always always always we want to do that first
+Factor out what we can
+Got a 2x there
+Then I look inside here and my a value is one
+Remember the A is the quadratic terms coefficient in front
+Theres a
+What were doing there is simply doing our typical factoring that we do
+Factors of c that add up to b
+Were right here we factored out the 2x
+My a value is 1 b is 6 the c is 9
+The factors of nine
+I can just start with one and nine two is not three and three
+Thats pretty much it and then Im going to have 1 9 3 3
+Which one adds up to the b value
+That right there
+Notice its a repeated thing
+I can write it as x32
+What do I know thats going to happen on the xintercept at a x value of 3
+Going to bounce
+Going to bounce
+This is this is very similar to the types of factoring problems you would have had in math II
+Any particular questions on that one
+Lets look at example 2
+Finding zeros of a polynomial function again zeros xintercepts roots all mean the same thing
+In this case it says find the zeros and then sketch the graph
+Starting with this guy again asking that question anything I can factor out
+Factor out that 2
+What did I have to recognize right there
+One
+This right here is a pattern that were supposed to recognize
+What is that pattern thats there
+Its a perfect square
+Its a perfect square
+Flip over to page 121 I think it is
+Sorry page 121
+Page 121
+I think thats it
+Yes
+Yes
+On page 121 it talks about a perfect square trinomial
+How do I need to rewrite this so that I see the pattern
+How should I rewrite x to the fourth so that I see that pattern
+x2
+x2
+Squared
+What do you think
+When we look at the pattern
+Im looking at the square of a binomial and theres something squared
+Then it says its 2ab thats the template
+What did we just find right here
+Is that a or b right here
+It says a2
+Lets write it up a2 2ab ab2 is that right
+Thats the pattern
+What does that look like then here
+I have to take this I have to recognize that my a is an x2
+Now here how can I write 16 as something squared
+Four
+Four
+My b value is 4
+2xax b gives me What
+That value right there
+Theres the pattern
+Lets start again and walk through it to make sure that youre starting to see this
+These two things are perfect squares
+If I look at this and go Oh you know what
+x to the fourth is a perfect square and so is 16
+Lets write this is 42
+I noticed two perfect squares right there
+I think it might be this
+Depends on what happens here
+That means my a value is x2
+My b value is 4
+4x2x 2 gives me that and I can start to see that the patterns there
+Then this guy oops not plus
+Oh no thats not right even sorry
+I was thinking about something
+This is a whoops its minus
+Ill eventually get there
+ab2 which is what we see here
+See how those are the repeated roots of those
+its recognizing the pattern of a perfect square which then tells me exactly how I can rewrite this
+Now we ought to ask the question again
+Can I factor this guy
+Well thats the difference of two squares
+x2 perfect square difference meaning subtraction four I think that might be in this as well
+Sum and difference
+Look at the very top one in that core concept
+Lets say okay I need to recognize this and factor that as x2 and x2
+Then as I look at that whole thing I see the repeated factors
+I can simplify the way I write that
+This as it turns out is a great level three question thats getting at a couple of different factoring skills at once
+Recognizing the square here recognizing the difference of two squares there
+Its from that concepts on page 121
+Any questions on that one
+Lets turn back over to page 146
+What page
+Yes sorry about that
+Page 136
+All right 136 the first example is actually a whole lot simpler
+Were just pulling out whatever common factor we find in this case an x
+This gets a little more sophisticated
+When I look at this recognizing I have a 3y3 that I could pull out and then looking over here recognizing I have a 5 z2
+Thats all this first example is is learning how to pull out the right thing
+Then heres the factoring with a is one another factoring where I have the difference of squares
+Then recognizing here that pattern that we just got through talking about of a perfect square
+If I look at z and 9 those are both perfect squares so z x 3 x 2 gives me the middle term and so I need to start recognizing those patterns so that I can do that
+Let me check something really quick
+Havent talked about that one yet
+Then heres the next pattern we just got through talking about the difference of two squares and this would be the difference of two cubes and this is the sum of two cubes
+We can factor a2  b2 this would be the sum of two squares not cubes
+Oops I dont want the plus I want the minus
+This one there is no factor yet
+This one is x
+Weve got the sum and difference not only of squares but of cubes but this one cannot be factored so you dont have to worry about trying to factor that
+These are also patterns then that we want to start to get accustomed to is recognizing if those are perfect cubes like 8 or y3 then this is the pattern that we follow
+Looking here whats the cube root of this
+Its 4x whats  1
+Its 1
+Notice the first step is to rewrite these as cubes instead of keeping it like this
+What I want you to do is on that toolkit isthis is the title of the next section on your toolkit so special factoring patterns and theres the sum of two cubes with an example for you to work on there
+The first step is to write those in the formula
+Its very easy for us to recognize the cube not too tricky here just the a
+What would be  27
+So 3 x 3 is 9 9 x 3 is 27 just doublechecking
+Now I know that according to this little pattern thats my a value that Im going to use here thats my b value
+Thats really as much as I can copy from the pattern that I see here thats this pattern
+Im adding a and b
+Adding a and b those are my as and bs fill that in
+My first term in the second parentheses is a2 then Im subtracting multiplying a and b together so the a x 3 3a and then I have to square my b value
+Thats following the pattern of the sum of two cubes
+The next one is the difference of two cubes
+Then talk with your partner
+Whats the answer for the difference of two cubes going to be for that example problem
+Anybody need more time getting this in the toolkit
+Heres a term that youre used to but its a little different application factor by grouping
+Factor by grouping is the way that we would factor a quadratic that had an a value that wasnt one
+In other words the x2 with something like 4x2 or 6x2 and were trying to figure out how to factor when that a value is not one
+The concept is exactly the same but heres an emphasis on this word right there
+Hallway partner give some emphasis to that word as you read that little paragraph to your hallway partner
+Well done Rach
+In this particular one it works but again you understand that its not all of them that this works for but its something we can try
+I look at those first two terms what could I factor out
+I see its a z2
+Whats that
+How do you know whats
+You can try
+If for example you go through all of this and thats a z5 and thats a z7 because those have to be the same then it didnt work
+Good question though
+Then what can we factor out of the next one
+4 and 4
+The whole idea here is that I want to come up with those two being the same so that I can pull that out in a sense by itself
+After I pull that out what am I left with is the z24
+The interesting thing about this one is because I think once we did that we might think Oh were done
+This guy right here can be factored because it is the difference of two squares
+I have the z2 and the z2 again the difference of squares
+Its really important always factor out whatever we can
+Always ask yourself can it be factored again
+Once I get some factors can it be factored again and you want to keep going
+Thats factor by grouping
+Heres an example of factor by grouping then
+Check with your partner
+Did you guys factor and have the same answer
+Share with the rest of your team talk to your other teammates
+There all four of you come up with the same answer
+Any questions on the answer
+Yes
+Yes
+How long were you supposed to do this
+Factor by grouping same as when we had an x value factoring a quadratic where the x2 has something other than one like a 6x2
+We just simply look at the first two terms
+What could you factor out of those two terms
+x2
+x2
+x2
+Whats left in the parentheses then
+x
+x2
+You get 1
+What could I factor out of that
+Whats left
+If I take the 9 out I end up with the same thing
+Just look at that two x 3 and 2x2
+What do they have in common
+x2
+An x sure
+Whats left is x2
+Then I ignore those two and I just look at the other two
+I can take a 9 out of that
+I end up with an x2
+Thats the idea
+If these are not the same that doesnt work or if you had just taken the nine out and youd look at those two and go Oh I could just take out the negatives and they would match
+Now Ive got this x2 then when I take that out what am I left with
+x2
+Sure
+Sure
+Now am I done
+No
+What can be factored here
+These are two perfect squares
+x3 and x3 that can be factored two perfect squares
+Then my x2
+Yes go ahead Zak
+If you do that
+What I did just here
+Those are the same
+I put it here
+Its like Im factoring that out
+This is the factor they have in common so Im factoring that out
+When I factor the x2 out of this did I write x2 twice
+No I just wrote it once
+Thats the same thing
+If Im going to factor something out of both of them I only write it once because Im multiplying
+Im actually taking this and Id be multiplying it both times
+Thats in the sense the two times that you write that
+When I pull that out theres that and whats left is the x29
+x29 once I pull those out
+Then this is a perfect square and thats a perfect square
+The difference of two squares is factored like that
+Lets go to the I think its going to be the last example lets see
+This ones a little trickier
+Lets see window partner your turn to read
+You read this paragraph
+No
+is that a quadratic
+No
+Its a line
+Its saying that its in a quadratic form
+Well Its a line
+Whats true about this and this
+Theyre both perfect
+squares
+I can write them as perfect squares so Im just simply taking each of those and Im rewriting them as a square
+Now it looks like a quadratic because I have something squared
+If its
+With a nine square
+If its 92 then technically
+No because order of operations says I do exponents and then I look at that
+Its like your calculator
+If you put that into the calculator its going to tell you 81
+If you want it to do 9x9 Ive got to put that in parentheses and thats right
+This is just the difference of two squares
+Its this plus that and this minus that
+Thats just what I see right there
+Those things thats just the difference of two squares so those are my things that get added and subtracted
+Another application of the difference between squares
+Then I have to ask myself can any of this get factored further
+Remember I told you the sum of two squares cant be factored so that just gets copied but the difference of two squares so now I could rewrite this guy as 2x232 which you see the 2x and the 3 are in the factors there
+This was in the form of a difference of two squares like a quadratic
+Then the second one is how does that even look like any kind of quadratic
+It doesnt
+It doesnt does it
+No
+No but if we go back to rule number one at the top of your toolkit it says always look for the common factor to pull out
+Now I look at this guy
+That doesnt even look like a quadratic to me
+How is that a quadratic
+P64p36
+A quadratic always has a quadratic term at the start right
+Yes
+How do I rewrite this
+Power to a power I multiply 3x2 is 6 so I just write it in little different forms
+Now notice hows theres those little Us in there
+Theres something the same about this guy as this guy and what is it
+P
+Its that p3
+Theres a p3 and I have a 5
+This okay and then I just add the six on
+I wrote my p3 inside parentheses
+Thats the use
+Now watch
+Pay attention
+How is this line a quadratic
+x25x6
+What are the factors of six that add up to five
+Three and two
+Its not x
+Its
+p3
+If you just look at x25x6x thats a quadratic right
+This is two I think
+In this particular case my x is really p3
+I found that truly by speaking about this how could I rewrite that as a quadratic terms of being square
+That is then the last There we goTheres one little other thing that goes in your tool kit
+Well get to that tomorrow
+This is the next example to put in your tool kit
+Polynomials in quadratic form
+Lets see
+Aubrey here you go
+Abdul there you are
+Penelope sorry
+Steve Lizzie McCourt Layla McCourt George
+There you go
+There you go
+Elizabeth  Layla and Max
+Layla here you go
+Cassidy you come get your test
+Emilia theres yours with this work
+Im sorry
+Oh you mean the other bits and pieces
+Yes
+Kim
+I think thats one
+Sorry
+Here you go
+Yes
+Yes
+Wheres the microphone
+One more microphone
+Whos got the other microphone
+You guys have the other microphone
+Here we go

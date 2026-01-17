@@ -1,0 +1,386 @@
+All right guys
+Were going to be in our textbook page 136
+Page 136
+All right
+All right
+Page 136 in the textbook
+Notice this is going back to 34
+34 is what we focused on on Monday
+Whats that all about
+Factoring
+Factoring
+You need some good practice in factoring
+Were going to start with the factors theorem
+Douglin
+You dont even have your book
+Youre not paying attention to me so give me this
+You wont turn it off
+Give it to me
+All right
+All right
+Page 136 the factor theorem
+Our factor theorem is showing us that if we had a polynomial and its got a factor then basically this is saying that when I plug in the K value I get an interim zero
+That means I dont have a remainder
+If I dont have a remainder then that is a factor
+If I do have a remainder then that isnt a factor
+Im going to show you an example here in just a second
+If we look at dividing 125 by 25 how many times does it go in
+Five
+Five
+Five
+Whats the remainder
+Zero
+It goes in evenly
+25 is a factor
+Whereas if I take 125 and I divide it by 20 how many times does it go in there
+625
+Okay so now we would normally then write this as our answer is six plus five over whatever were dividing by
+Of course we can reduce that
+The idea here this is just a fancy way of talking about polynomials
+If were going to talk about polynomials if we dont have a zero remainder that is not a factor
+Number five determine whether a linear binomial is a factor
+Theyre asking us the question is that a factor of this
+One of the ways of doing this is to plug in the K value
+Remember this is an X K format so my K value is
+Two
+Two
+I plug into two and I come up with a four
+Is it a factor
+No
+No its not a factor because we end up with a remainder
+For this second one whats the K value then
+5 and I do synthetic division with it
+Now if I do this synthetic division Im looking over here so my remainder is
+Zero
+Is X5 a factor
+Why do we synthetic division
+Is it just another way to do it
+We couldve plugged in 5
+Youre a good straight man
+If I did synthetic division I can answer the question but I cant go any further
+If I answer the question and its zero then I can use this to write that next factor
+I cant do that if Im just plugging it in
+For example if thats my answer and since I have zero there I know that thats one of the factors so I can rewrite my polynomial with that factor
+Then I also know that 3X whats going to be the exponent that goes with that three
+It goes down one
+Im going to skip the X2 so now I have X5
+I can answer the question just plugging it in but I cant get to the factoring part
+The synthetic division helps me do the factoring and then I need to ask myself Well can I factor this
+and then use the different factoring skills that I have to see if we can do that
+The better way of doing it is with synthetic division
+Example six theyre basically telling us in example six that X3 is a factor and they want us to factor it completely
+Its not just asking if its a factor its saying it is and use that information to do the factoring
+We go through this synthetic division process
+We confirm because of our zero remainder that X3 is a factor
+Then if I drop down one Ive got X to the third
+I dont have a square
+I dont have a linear term
+Ive got a constant though and I write that in
+Then the question is am I done factoring or can I factor further
+I can factor further using the difference of two cubes
+This was also introduced in this lesson 34
+If I recognize that I have two cubes I can then factor it as the AB
+In this case it would be X1 and then the quadratic that goes with it
+Then I ask myself Well can I factor that quadratic
+Are there factors of 1 that add up to 1
+No so I cant factor that any further and Im done
+We practice synthetic division quite a bit
+Hopefully you feel a little bit more confident with that
+Were going to practice that quite a bit now
+What Id like you to do then is go to the journal page 79
+Journal page 79
+All right
+All right
+Page 79 lets work number 15 together
+The first thing we need to do is set up our synthetic division process
+If we know that X1 is a factor remember XK is the format so X helps me understand that 1 is my K value
+Then Im looking at the coefficient of my cubed term
+I dont have a quadratic term
+There isnt an X2 in this I have the zero
+I bring down the 13 and the 12 and so I need to start my process
+Thats the setup
+Any questions about the setup
+Yes Zach
+How do you feel like X
+Well the format of this whole process this whole idea is that its XK and that what I put over here has to be the K value
+So instead of just looking at this and thinking about 1 is the K value Im reminding you that the format of this is an X
+So if I write it as X it shows me that my K value is actually 1
+Ive got to flip the sign basically when I go to put it over here
+All right
+All right
+Other questions on the setup here
+All right
+All right
+Step number one person number one at the table remind your team whats step number one here
+You bring down the 1
+All right eyes upfront
+Very simply that first step is just to bring down that 1 then well multiply to get the 1 and we add them together
+Then were just going to keep repeating that process
+1  1 add those together multiply those two together add those together
+What does that zero tell me
+It is a factor
+I can rewrite this the polynomial with X1 and then I have to convert this back into a polynomial
+So its going to be 1 is the coefficient of X because were going to drop down one
+This is my linear term
+That was my coefficient of the quadratic coefficient of the linear and my constant
+Then ask the question What are the factors of 12 that add up to 1
+3 or 4
+4 because we want it to add to 1
+These are all linear binomials because X1
+If I was to graph this itd make a line
+That would make a line that would make a line
+Thats as far as I can go in my factoring
+This question is not asking you this next part but I want you to see that when we moved from 34 which was this section to 35 when we were talking about solving weve got to go through all of these and then we have to figure out using the zero product property I just solve through all of those so in each case Id have to say X10 so X is 1 4 3
+If I have to solve using this method that would be the step that we add onto it
+All right
+All right
+Use that as your model practice 16 and 17
+Notice that when youre done with 16 and 17 youre just going to go back to 1
+For the rest of this period youre going to practice factoring
+All right
+All right
+Lets get going
+That is applying this right here
+What I have to do is factor Q and come back to Q
+Actually were here
+I have to recognize that this has
+Weve rewritten it as Q so that I know what my A and my B values are
+So then I can just simply use this pattern
+Im going to do AB
+For the 6X
+Then Im going to square the A value multiply the A and B together times 5 and then Im going to square then new X factor
+6218 thats plus two right
+Does that make sense now
+Its tying in
+Wait
+Can you guys come quick
+No
+Did you keep it
+You just keep it
+You split the middle
+With long division we subtract with synthetic division we add
+Yes thats how I do it
+Notice how I have a 3 and a 1 but I dont have an x2
+because weve got to cover it down one step at a time
+Make sure you do this
+The first thing I would do in factoring that is ask that question is there a common factor that I can pull up
+Now I could take out a
+I could take out the twos and then youre left with three here and a three here
+not one we have to multiply A  B  add up the B and then
+This is my map to how to factor quadratic stuff
+The shortcut is to find the factors of 12 so you do 66 is 36
+I can just list all them out that add up to 1
+What was the factors of 36 that add up to that 18 and 2
+Notice how those two they do multiply to 12 and then they add to 1
+Did that help
+Can you hear me now
+Share
+You need to come and explain to her how I got the mean here
+Wait how does 18X turn to X3
+I do multiply 8  C and thats 9  So 10X is going to be X9X
+I multiplied 8  C
+Just 8 not the 96
+The x2 is not part of the equation
+So I get 9
+Are there factors of 9 that add upto 10
+How about 1 and 9
+So I do like 1x and add 9x and they add upto 10
+So I have to change my equation
+You factor that out and what do I end up with
+Make sure you havent lost your 2 or your x2
+It doesnt matter what order they are in when you multiply because we use the same characters
+Great
+How do you factor
+Notice what is the A value for that  You multiply 33
+Then simplify the what factors of that and the 10
+What that means is we split the linear term and now instead of writing plus 10x  plus 9x
+We cant lose three table factors because you notice what X X mean
+You do I with whats called
+In other words 3x2x9x
+Add the x2 out there
+I am going to do one thing here if you let me
+because then I can pull that out and that out
+There you go
+The answers are on the board at least we can check out
+Heres where it going to be helpful to do an intermediate  with what is it thats actually cubed plus what is it thats actually  Now I know what the A and the B are in that little part of the formula
+So we have five minutes
+For this one are there factors of 2 that add up to 1
+And that would be
+1 and 2
+There you go
+That tells you are going to be
+This it had 3x210x3
+We are just going to deal with that and what was the other quadratic that we had x2 x2  So two different strategies
+Let me combine them into one and youll see that they are the same
+If I multiply those two together what do I get
+I get 2
+What are the factors of 2 that add uptp 1
+We do the same thing here by multiplying those two and what are the factors that add up to 10
+If my A value is 1 my factors are x1 and x2
+If A is not 1 and I do that x1 then x9 notice because that times that equals that guy
+No
+Thats where the strategy is different then I am using this to split that
+Over here this became my factor over here Instead of 10x  These are the same its just our strategy for factoring
+This is called factor by grouping
+I am going to group  so what do they have in common
+What do I pull out of this
+Thats what I am looking for for those two to be the same
+Now factor this so that I dont have any addition in the middle
+I am not multiplying that by that
+I am actually taking that and adding that
+Now I got the
+If I had 2x  and I factor that I dont factor out the 2 twice
+Well this is 2X  25
+Ladies and gentlemen hopefully youve got some good factoring practice
+How many people got one two three four done
+I have got a few that got three
+Four
+Four
+What
+I said multiple times
+When youre done with 15 16 and 17 go back to one and start working on factoring
+When the bell rings were switching gears but heres the answers to that extra practice youve been looking at
+Ladies and gentlemen Im going to encourage you to take a photo of the answers and take your journals home or take those pages out and do these practices
+These are the kind of strategies that you need to know how to do
+You got to be able to factor
+Get those answers and then come back to these pages and spend some time practicing that
+Were going to bounce back into the textbook now
+Page 147 in your textbooks
+Page 147
+If youre person number two raise your hand
+Who is number two
+Walk your team through answering this four example three polynomial
+On the count of three give me the degree
+One two three
+Three
+The leading coefficient
+One
+I heard a variety of answers
+Whats the end behavior look like
+The constant
+We need that information for this rational root theorem
+Whats the root word here
+Ratio
+How do we write ratios
+Theres a clue
+When were talking about rational root theorem were talking about fractions
+Were going to be prereading fractions
+The formality is This is the way of expressing any polynomial
+Its got some coefficient ese bene and X is raised to some number all the way down to intercept zero which is our constant
+It has integer coefficients so we dont have any fractions in the polynomial no fractions in the polynomial
+Every rational solution alphabet equals zero
+We get that zero
+We dont have a remainder
+Its going to be a factor
+We start
+In our numerator position theres factors of a constant
+Numerator factors of a constant
+Its 120
+Is two a factor
+Yes
+How about three
+No
+Four
+Four
+Yes
+Five
+Five
+Yes
+Six
+No
+Seven
+No
+Eight
+No
+Nine
+No
+10
+Yes
+20
+Yes
+Those are the factors of my constant
+coefficient
+What are the factors of one
+Thankfully thats a little bit easier
+with the two in the denominator
+We can also have positive and negative values of each of these
+How many different factors do we have
+12 factors
+You have an issue
+Not of 20
+Were thinking of what multiplies to 20
+This makes a great multiplechoice question or part A maybe on another three questions
+Weve already figured out all the possibilities here
+Now were going to figure out what do we do with that information
+Im going to test my first one a positive one
+Then Im going to test my next one a 1
+If none of them have a zero remainder then Im going to keep going until I find something that has a zero remainder
+Guys
+We find out that 1 is not a factor but 1 is
+What does that mean in terms of the factor itself
+Remember its the K Im sorry XK
+Its X
+Because Ive done synthetic division I now know the next factor and I can apply my math to factoring skills to that quadratic
+Come up with those factors
+Theyre all linear binomial I am done factoring
+The solutions the zero product property
+Im setting X1 0 and solving for X X4 0 X50
+I come up with my final solution set
+try numbers or is it specific numbers you try
+Notice over here when we set this up if I was to write this I have 1 1 2 2
+I test until I find one that works
+Once I find one that works I now know that Ive got a factor
+This tells me the next factor that goes with it
+Theoretically
+Probably not 12 because how many numbers would have worked
+Three
+Three of them wouldve worked in this case
+It wouldve worked for 1 for 4 and for 5
+You could have had to do Nine before you found one
+This is the rational root theorem
+We didnt get to that yesterday
+We had a delayed start so we didnt quite have enough time to get to this part of it
+Were going to practice this with the extra practice in the journal
+Were going to start here on problem one and we want to try and work through as much of these
+Page 83
+Were back to the journal
+Whats your answer whats your solution
+Right now this one doesnt have 0
+So how are we going to
+I never signed the form you can use this audio
+Whats true about 2 8 and 6
+They are all even numbers
+What can I pull out
+Standard 10
+What about the Xs
+Are there Xs in all of them
+So how many Xs are you going to pull out
+One
+So you are going to factor out 20X first
+Whatever you put to  has to multiply to that
+Now Ive got a simple quadratic
+Are there factors of 3
+Do you have a question
+Ill be with you next
+Lets see
+Whats the one thing you got to do now
+How do we solve for R Yes you said that equal to 0 that equal to 0 and that equal to 0 and you have your three answers
+Otherwise thats 3
+Then here you pull that up
+Then the first thing you have to do is  You got the right idea about what you are factoring out but you are going to do it with everything on the one side of the equation
+If I am multiplying three things and it has to equal 0  because I cant do 3410 Its got to be 0
+What would make that equal to 0
+Once you have it all factored you go R1 you 6R10  you solve them all for the R then you have your answer
+4 out of 80 is 20  Those are pretty close could just doublecheck our work
+Does that times that equal that
+grouping those two then we group the other two
+Now we are in lock
+So what do we have left after you pulled that out
+Whats true about 25 and
+When I factor the difference of two squares I get two factors
+Whats the other one
+Notice the difference of two squares can be factors of with a plus and a minus version
+In other words if I start with this I have a plus or minus version of that factor
+I am going to have those two factors
+Alright ladies and gentlemen Im going to suggest the same thing on this practice set is that you get a picture of the answers and then continue to work on these
+Youve got to be able to factor 34 youve got to be able to solve 35

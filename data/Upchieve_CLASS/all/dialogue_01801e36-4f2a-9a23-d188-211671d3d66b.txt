@@ -1,0 +1,20 @@
+hi, sorry I cut off the previous session
+my connection was a bit weird,, haha but how can I help you?
+how can I figure out the initial value?
+can you type or write the equation?
+20,000(0.86)^t
+is there any other information given to you for this problem?
+The dollar value (t) of a certain car model that is t years old is given by the following exponential function.  20,000(0.86)^t
+did you finish college?
+okay, so a way to solve this problem, is that you plug in t = 0, since you're looking for the initial value
+no, I'm currently in college
+that's good
+so like how does this work are you super smart do you get paid for this ?
+and when t = 0, time hasn't technically started, thus being the initial value
+ah, I volunteer to be a math tutor :-)
+and I'd say I'm not super duper smart, but I do pretty well
+nice thanks for your help
+no problem!
+are you gonna be a teacher some day
+okay sorry I'll stop wasting your time good luck
+I'm not too sure, to be honest.

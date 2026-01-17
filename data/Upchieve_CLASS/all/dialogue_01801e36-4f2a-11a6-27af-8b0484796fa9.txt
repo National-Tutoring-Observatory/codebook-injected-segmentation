@@ -1,0 +1,90 @@
+Hi, I need help with is factoring problems with binomials and trinomials. Can you please give me problems to work on?
+Hi!
+Not a problem!
+Thank You!
+Just to confirm, you want me to give you some problems to work on
+Yes please
+Or do you have problems you need to work on
+Oh okay!
+Give me one second
+Okay, No problem
+Okay
+So let's here is a trinomial problem
+x^2+4x-32
+Hi i don't know why the marker is doing that but i will try to do on paper and send it
+Hey no problem
+Is this correct?
+Yes!
+You got it!
+Can you give me a slightly harder one?
+Okay!
+-2x^3-6x^2+56x
+Okay now I need help how to start it
+Okay not a problem!
+Did the screen just go blank? Haha
+Yeah it did haha
+haha okay
+Let me rewrite the problem really quickly
+Okay
+So first, what part do you get stuck on
+Or at least, what do you think you should be doing, but can't because the problem looks weird
+I got stuck on how I will find the multiplies of 56 that will add up to 6
+I was thinking of multiplying 56 and -2 and find a factor that will add to -6
+Okay!
+Can you elaborate a little on what you mean by multiplying 56 and -2
+Like finding factors like 2 and 8to see if that will add up to -6
+Ah
+I see
+Oh!!!
+Look at you
+Good job! One piece of advice, you just factored out -2x, make sure all your signs inside the parentheses are correct!
+Is this correct?
+Awesome!
+Yup you got it
+I was just making sure you saw that it should have been x^2+3x-28, not +28
+But you still ended up with the right answer
+So good job!!!
+Okay thats great! Can you write be binomial problem?
+Yup!
+Sorry!
+It is taking a while to find a good binomial problem
+Okay it's fine!
+Okay
+So let's start with an easy one
+x^2-4
+Is this correct?
+Yup!
+You got it
+But a problem that I need help with x^2-5x
+Ooo okay
+So let's do that one
+Write it out on the whiteboard
+Okay great
+so what is your plan
+When you see a problem like this what is the first thing you think of doing
+I was thinking to put x-5 and x+1
+That's the only thing I can think of
+Okay I see
+So when just like the first or second problem we did
+When you pulled out -2x
+You should try and see if there are any common factors you can pull out of this equation
+Okay
+So whenever I have a problem like this, I am supposed to pull out what both variables have in common in this case x
+Yea
+The first thing you should always try and do is to check if there is a common factor
+But look! You solved it :D
+Okay and whats is your tip for trinomials
+Yes, I sure did!
+I would say it follows a similar pattern
+Try and factor first
+and then use FOIL
+but factoring is always a life saver
+Okay, thank you very much!
+Not a problem!
+Here is a great additional resource
+http://www.mesacc.edu/~scotz47781/mat120/notes/factoring/factoring_strategies.html
+These are for polynomials
+but go over some good factoring tips
+Please make sure to click end session at the top and leave us feedback! :)
+Thank you once again!
+Have a great rest of your night

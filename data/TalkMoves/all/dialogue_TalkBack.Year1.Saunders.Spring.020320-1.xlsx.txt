@@ -1,0 +1,774 @@
+I had a question about number one
+I excel at  and Im very good at
+Is that quotient correct
+Maybe I dont know if Im slowly solving the problem
+No
+Okay
+You got the right one
+Youre looking at problems in number one and thats what you came up with
+Yes
+Yes
+Yes
+Not looking good on that
+Okay
+I think Ill figure it out
+All right
+I think you did
+Thank you
+All right
+Were on page 75
+If you would page 75
+Thanks
+did I do right
+About right
+Oh boy
+Are you going to use that
+Are you going to use that
+All right
+Page 75
+Do you have the essential question same essential question on the top
+All right
+Weve factored quadratics and now were going to talk about factoring polynomials
+So the factored form is also called what
+What have we been calling it
+Intercept form
+Intercept because were finding what kinds of intercepts
+Xs
+Xintercepts
+Okay which are also called roots and then in the calculator theyre called
+Zeros
+Zeros
+Get used to the fact that we use all three terminologies for an Xintercept
+A polynomial could be as simple as this one right here or as complex as something like this one here or any of these different combinations
+What did we discover about anything that has an even power
+That it increases like that or its like that it bounces
+It bounces off of the
+Xaxis
+Xaxis
+So it either bounces off or hangs you know but
+Does it touch the Xaxis
+It touches yes
+It touches the Xaxis
+That is only for the even exponents
+Thats what we want to deal with today is how do we go about factoring something thats not a quadratic
+Youre going to start with matching each polynomial
+This polynomial youll match that with the graph that it goes with
+You want to use the Xintercepts of the graph and then write it in factored form
+All right
+So youre going to go from the graph to this type of expression here this type of equation
+If you have any questions as you work through it let me know have good conversations with your partner work through them same place same time everybodys working together having good conversations
+So go
+I actually have a question
+When youre factoring a cube can I rearrange these terms to make it a different factoring regular thing
+how to do that
+Well remember that when we did factoring by grouping we actually
+So its a different
+Its pretty much
+Yes
+Yes
+Its probably not going to work
+Its not a skill that you can use
+Thats why youre going to use in this case when you match this up with whatever graph it is youre going to use those Xintercepts to write an equation of that
+Okay
+So its up to you
+Thanks
+Yes
+I mean Ill work
+Match it first because then youre going to use the Xintercepts of the graph to write it in factor form
+is exactly the intercept
+Yes so do any of these actually bounce off the Xaxis
+No but this is
+Right but what we were talking about and let me put that back up for you
+How do you put your factor in there
+is when I have a factor thats
+When its a factor
+Yes
+Yes
+Yes
+Yes
+Isnt B over there
+Its rounded out
+Its rounded out
+Or theres like actually is figure out
+Well youre going to first match it with the graph
+What Im trying to do is Im trying to figure out the intercepts and then I can match it
+But youre going to do the other way around today
+But I dont like that
+So in other words youre going to look at the degree and probably look at this and figure out which of these graphs goes with that
+Then youre going to use the Xintercepts to write it
+So thats the sequence today
+How do we find the factor
+Okay
+So I know  quadratics
+So anything other than
+In terms of the degree of the polynomial
+So the direction of this would be similar to the direction of what
+If they were
+A line
+If a line is going like that is this positive or negative
+Positive
+The degree is
+Odd
+One and its is an odd number
+Right
+So you know that thats odd
+Thats right
+Okay
+Right
+Then typically if theres one two three directions its a
+Okay
+How do you do the
+So which ones with that and ones with
+Im going to come make a case
+Is there even a name
+Its this little cute bundle of joy
+call me Mongoloid Jack
+So they both are Okay
+Okay
+So with these twos do you think it would go with this
+Although because they have the Xintercept
+So what I would come to is maybe just plug in a
+Is there something thats distinct about those two
+Both are negative
+Yes
+Yes
+What happens when its negative two
+You can probably use that ones going to be a little maybe a little quicker to figure out
+All right
+So C is
+So why is this
+to get one of those
+C is
+Honestly its not too confusing but
+Youre right
+Death Valley
+Death Valley
+Do you even know where Death Valley is
+Probably its called
+Thats like
+D is D right
+Its called Silicon Valley
+Thats like in California
+Silicon Valley is
+Im talking about Silicon Valley
+Anyway Silicon Valley is in California
+Im talking about the valley
+Youre talking about Death Valley
+Death Valley
+Yes
+Now we have to factor that
+Oh boy
+I cant wait to visit Yellow Stone National Park
+2028
+Oh boy
+I just cannot wait to see the volcanoes on March 16 2020
+Neil over here
+Hello Ms
+Hello
+How do you factor that
+Well youre going to match with the graph first and then use those Xintercepts to bring
+Ive hit a roadblock
+Only I know how you would factor that
+You would just take out X
+You guys are good
+Awesome
+All right
+Go ahead and do exploration two
+No thanks
+Its a little different
+Ill modify the instructions just a little bit
+I like to talk big
+Charlottes in the other class
+Well thats because I can prove it
+Well I dont even know
+Ill find out
+Somebody did the quiz retake last time and didnt put their name on it
+I dont think its probably not
+Joel Strahan
+All you can do is
+What is this one
+Whats your middle name
+Yes
+Its EA Strahan
+EA Strahan
+Okay
+Explanation
+Theres somebody who did the quiz retake last time who didnt put their name on it
+No
+No way
+Youre not allowed to apply
+I did
+I was in
+Dont worry about the A value today
+No
+Youre absolutely right
+Yes
+Yes
+Were not going to solve for A this day
+Yes
+Yes
+do like that
+No
+You would have to know another point
+You can use a Xintercept to check your Xintercept
+well talk about it
+You use your Xintercept like when were using vertex form or something like that
+Okay
+Yes
+Yes
+You mean in terms of putting the exponent
+How do you write that
+You use the current
+No I mean how do you write it in your factor form
+Just like you did here
+You found an Xintercept of two and negative one
+Yes so youre going to graph that and go find the Xintercept
+Oh my God
+No
+Youre just not allowed to do that
+What is like a
+No
+Dont worry about
+Ms  at question two
+Yes
+Yes
+Right
+So notice it says use a graphing calculator to find the Xintercepts of the graph
+No but I would like to know how
+Or is it just kind of just Will we have it on the test
+Will we have like a graphing calculator
+You will get some strategies on graphing
+If I asked you to factor this then I would probably give you one of the factors and expect you to do division to find the quadratic and then you know how to factor
+Does it have to
+Yes
+Yes
+Well thats enough
+Were just going about it from a different angle
+What
+Its for the recording to capture student conversation
+Miss I dont understand
+I got you
+What do you need help with
+Its like I dont
+But theres a whole layer of fresh snow
+So okay
+it was like crossing snow
+Even like on the  youre going to walk through that
+It was better than
+Yes
+Yes
+Thats
+Im just walking on the grass
+I walk in the grass too
+All right
+You guys should be finishing up the first exploration and moving on to the second one
+Make sure you read the instructions up here before you start the second
+Im totally ready to move on
+You have to be very very intuitive
+Intuitive
+But what if I dont want
+How do you do any of that
+See I wonder what those buttons do
+Hello
+People Im sorry because
+Its your fault
+It too early
+I cant wait to
+Ive been looking
+No
+Maybe its fair
+I didnt do any of this
+I didnt
+Were you
+I do
+All my  gave me Supergirl
+Oh my
+You know Supergirl
+Dude oh my God I got so scared of her
+I got bit by a dog once
+You can spray it in the forehead and it just sits there  and it likes it too
+Yes
+while in the house they made me chug a bottle of water where I was like four seconds in four seconds
+I was more like my esophagus
+esophagus
+No
+Your esophagus  that
+Your esophagus is like
+How is it going
+Your esophagus is just
+There are  until we can see if theres a graphing
+Okay
+1015 1 of biology to me
+Yes
+Yes
+There are several in there
+So we have both
+What did you get
+What
+What is it
+Thats X plus zero
+Plus 25 square
+What happens if he didnt
+He didnt even spell it right
+Yes
+to do that
+Okay
+Usually thats way too
+But she wasnt here
+Yes
+Thats common knowledge
+It is common knowledge thats why I knew it
+Im pressing on
+So Im going to describe it
+Its like and over in your arm
+I have to do
+Theres a research team at CU Boulder thats developing an app that Ms Saunderss can use to evaluate how well they encourage
+So what can I call him
+Ill call you
+strong student interaction and engagement
+I guess Id put it that way
+So when I upload the video it evaluates Yes
+So they develop an audio and then I get the feedback
+I havent figured out how to use the feedback yet
+Thatll be my next step
+Ive gotten as far as figuring out the technology and making recordings
+The next step is to get some value out of it
+It kind of remind you
+What
+Me
+Yes
+racist
+I was born in
+The square root of five
+I mean thats totally fine if its graphed correctly
+What you can do is put both of these into Y1 and Y2 and see if they overlay each other
+Explanation two
+Yes
+All right
+If you wrap up investigation two I do want you to do communicating your answers
+So go all the way through question four
+Okay
+What do you need help with
+Why your answer is
+Oh this one
+She said your friend
+I mean label you
+Thats not true
+I was going to be like Oh my gosh
+Its going to be like LOL
+Bye
+Shes just  send me off
+Its kind of
+You should get one
+Its like Okay
+I got
+my grandmas
+Me setting my grandmas screen brightness to zero and telling her I need to  to fix her screen
+Thats not real
+Not a real
+Welcome back
+Youre welcome
+I am at a total loss
+dont know how to help her
+Yes
+I should probably learn how to manage resources more
+Anyways what do you need help with
+Well what do you need help with
+First of all I didnt read the directions and then
+Okay dude
+Okay
+Fine
+Ill actually help you
+Ill actually help you
+Lets finish this pretty fast and Ill
+What are they factoring
+I want the factors
+Okay
+That I guess it changed but we could solve it a different way
+What are you doing
+GIS
+In terms of its factor
+Okay
+Yes
+We check that
+Im actually writing it
+Well subconsciously you dont need to find the A value
+Do you even know how to factor
+I know how to factor
+I dont know how to do
+I thought
+I tried to
+Okay
+I understand like
+The only thing that I dont understand is I got  because he told me but how would you figure it out figure out the graph with only that
+So thats  another degree
+That has three directions
+So looking at these we got three cubics
+Now whats happening right there
+The Xintercept is
+Three
+The Yintercept is
+Zero
+How about over here
+What is the Yintercept
+Zero
+Negative one
+Actually  two
+What
+Right
+One two
+The Yintercept
+would have to be true when I look at that cubic that cubic and that cubic what makes those  different
+That
+Right
+So that one we know matches with that but these two theres no constant
+We know that the Yintercept has to be zero
+So then the question is well how do I distinguish these two
+If I pick an X value lets say negative one
+It Looks like negative one is an Xintercept of one of them but not the other
+If I plug negative one into this and I get zero I know its going to go with that one
+If I plug in a negative one and I get a positive one value then I know it matches with that one
+You guys got that
+It really is
+It really is
+Im so sorry I have to  because you gave it to me and
+Snow day
+Thats pretty
+I drove to  about 730
+X minus X is zero
+Yes
+There it is
+X squared minus
+So I thought
+I could just
+my circle of drive because  on the other side of I25
+Okay
+So help
+What do you mean help
+Do I owe you
+Okay
+I owe you
+Im so excited
+What
+His real name is Danny
+No problem
+Keep coming back
+I could use it for a minute like
+All right
+Ladies and gentlemen
+Lets take that fiveminute break and then were going to get into some of the examples in the textbook
+Fiveminute break
+I know where China is  whats important right now
+Okay
+Because thats where were staying away from
+Lets go
+There you are
+pretty soon but  a whole lot of people out
+Yes
+Yes
+I have friends that live in the North Side of Scotland and  photos  see theyre going through
+Yesterday
+Whats  tomorrow
+So today is a high 30 and a low 12
+Id like to do this from a experience
+No way
+Give me your phone
+Put that shit in here right now
+Dude  listening to the audio
+Shit
+I was like You know  the sidewalk
+You know what I mean
+Yes
+So basically I was walking  and I couldnt walk
+You take a step
+So you use those runners or what
+The ice
+Thats right
+on the ice and  on the ice
+Except you wouldnt even
+I wouldnt slip
+Yes
+You would
+No
+I would slide almost
+You would slide and then
+I was like
+My first
+All right
+Ladies and gentlemen lets get back to our desks
+All right
+Here are your answers for exploration one and two
+So heres your chance to see how you did
+What is that
+Chubby Cheese
+Whats going on
+Has everybody had a chance to check exploration one
+So making sure
+This went up
+Okay
+There you go Joel how you can answer number three
+This is exploration two
+Yes
+Yes
+This is for exploration two now and the communicator answer
+He didnt ask
+of the question
+Whats that
+Three equals three
+If youre done go ahead and find that section in the textbook 34
+34 probably around page 136 I think
+One thirtyfive
+Page 136 of the textbook
+Dont do it like that
+boom boom boom boom like you did here
+No but I wanted to just switch up the order  because these are about two the right answer
+Right
+I dont get it
+You have both X
+All right
+Window partner raise your hands
+Window partner
+Whos the window partner
+Window partner
+Window partner
+All right
+Window partner read this paragraph to your  partner
+Most of these involved is I think are two squares
+Or the difference of
+I guess I was talking
+Joel okay why do you have to say things that make you
+Do you sleep on this side of your head
+Is it that why its like
+Because there was somebody
+You always sleep on that side of your head
+Yes
+Sometimes I face the wall sometimes I face the window
+perspective
+What
+Yes
+Ill draw my room right here
+All right
+Ladies and gentlemen
+Ill draw
+Eyes upfront please
+This is from the top
+Yes
+From the top
+So a couple of things to pull out of this
+Some polynomials can be factored
+So for example when you were working this  in some of those division problems and there was a remainder what would that tell you about it being factorable
+Yes but if it can be factored then its going to be factored completely when I cant factor anymore basically
+Im left with unfactorable parts
+So like for example when I look at the answer down here to this first example I cant factor Z plus 3 any further
+Right
+Its totally factored and so thats where you want to keep asking that question
+Can I factor it further
+Can I factor it further
+Am I done
+Particularly now that were looking at some more complex things we want to keep asking ourselves that question
+Example 1 finding a common monomial factor which means that theres got to be Ys in every term or X is in every term or Z is in every term
+In other words were just simply going to come down and in the case of this first one we can factor out an X
+The first step in the second one we could factor out a 3Y3
+In this fourth one we could factor out a 5Z2
+The first thing we want to do is always see if theres some sort of common factor
+Thats another vocabulary term we could use and factor that out
+Notice in this case we end up with a quadratic another quadratic another quadratic No
+Thats a cubic
+What about
+No that is a quadratic thank you
+I dont have my glasses on
+In all of these cases after we factor out that monomial we have a quadratic so we have to use our skills for
+You can use synthetic divisions
+Then theres synthetic division
+Thats on that option as well
+Any questions on that example
+Thats stuff that we have been doing
+Here in the core concept are some pattern
+Again these patterns Please dont play with the mic
+Okay thatll be all
+Thanks
+Notice here that weve got the addition or the sum of two cubes or the difference of two cubes the subtraction and notice that the first step in solving those using this pattern is to write them as two cubes
+There are some problems that we can look at and we have to learn to see that those are two cubes each of those and then be able to rewrite it in that form
+Then I actually know what A and B are
+A is 3X and B is this 2 and then we just simply apply the pattern
+If we look we can see that if in the sum I keep that sign
+If its a difference I keep the subtraction sign and notice the pattern of the quadratic thats left
+Its really the same pattern just with that different sign
+See that if I was getting a sum that first term is a subtraction and so those are going to be opposite signs in that case
+We want to look for that pattern and thats just exactly whats happening here with Example 2
+Weve got to recognize that these are two cubes
+Rewrite them as cubes and then just simply apply that pattern
+Thats one skill for helping you move a little bit more quickly through the test is if you start to recognize those patterns
+Pete could you read this for me
+For some polynomials you can factor by grouping pairs of terms that are of common monomial factor
+The pattern for factoring by grouping is shown below
+Weve already done factor by grouping because that was one of our skills for factoring quadratics
+Remember we would find the factors of A x C and we would split the linear term
+Then we would look for a way of factoring the first terms and the second terms
+Ill show you the example
+If we end up with a common factor here then I can pull that out as a separate factor and what am I left with
+Is the Z2  4
+Thats a valid skill for some and thats why I want to emphasize some
+Its not one that we can count on because for example what if this had been 19
+Well then I wouldnt have been able to do this type of factoring
+That is something that we could look at as a strategy but its not going to work all the time
+Factoring polynomials in quadratic form
+I want to go back to this example recognizing that this is two cubics
+Its X3 and 53
+When we get to this Example number 4 Im recognizing that I could rewrite something in a quadratic form
+For example this is the difference of two perfect squares
+Its two perfect squares
+Notice how Ive rewritten this term as a square and Ive rewritten this term as a square and then I apply the pattern that we learned with quadratics the difference of two squares
+Well thats my A and my B and so I factor those but then I have to ask myself can I factor this
+Can I factor that
+Well this ends up being another difference of two squares
+Thats a perfect square and thats a perfect square so I could factor those
+This second example might be a little bit trickier for us to see
+We look at this and at first we can find a common factor and so remember thats always the question that we have to ask
+Is there a common factor I can pull out
+When I look at this how do I go from here to here
+I feel like they left out a little intermediate step
+We could split the term
+How can I rewrite this as a quadratic
+In other words a quadratic has something squared
+How can I take this P6 and rewrite it as something squared
+What would have to go here
+This is the reverse of our exponent properties
+Im going to put P Whatever I do with this whats a power to a power
+What do I have to do with those two exponents
+You multiply them
+I have to multiply them
+What times two is going to give me six
+Then notice its as if thats X and thats X
+Do they cancel
+No
+No they dont cancel
+Its as if this is X2  5X  6
+Okay
+What are the factors of six that add up to five
+Three and two
+Thatll multiply to that then theyll add to that so now if I understand that X is really P3
+You can use it to put it back down
+Thats whats missing right here is to be able to see that this could be written as a quadratic that I know how to factor because these P3s are here and I can think about them as if they were Xs and I know how to factor that but really the Xs are P3 so I end up rewriting it in this form
+Here again theres something new to recognize
+Ive got to be able to look at something like this and go Thats a quadratic
+Yes Joel
+Joel 3P2 is that just transferred down because its not in the quadratic
+Right because my X2 here is really P3
+Other than the one on the outside theyre always
+Yes
+Yes
+Yes you just copy that down yes because we already factored that out
+Then of course I should I ask myself can this be factored
+Can that be factored
+Theres another new skill is being able to look at something a little more complex and recognize that I can factor it similarly as I did with quadratics
+Pete
+I cant factor after Exploration 2
+All right
+Well get there
+From Exploration 2
+Did you put it in the calculator and find the zeros
+Im supposed to do that
+Yes that was the instruction use your graph and calculator to find the X intercepts write your factor form that way
+Yes it was a little bit shorter way of doing it
+The factors theorem hallway partners your turn to read about the factor theorem
+Read it slow enough that youre understanding it as you read it as well
+Hallway partner you go ahead and do the reading
+Lets make sure were getting the big idea here
+If I can take something like that purple sheet that you worked on you did some divisions
+If I can divide it by something and my remainder is zero then this has to be a factor of it
+Its almost like saying if I have 12   3  4 and whats my remainder
+12   3  4 with a remainder of
+Two
+Zero that means that is a factor of that
+Now what if I did 12   5
+Two with a remainder of two
+Two with a remainder of two
+Is 5 a factor of 12
+No
+No thats all this is saying in our complex way of looking at polynomials right now
+If I end up with a remainder of zero then whatever Ive divided by has to be a factor
+Were going to be looking for that as well
+Now that you know how to divide polynomials or were working on mastering that if Im given a potential factor of something then I should be able to divide that into that polynomial and find out if the remainder is zero or not
+The other way of doing it well whats always true of an X intercept
+Y  0
+Y  0
+If I plug in two and why would I be plugging in two
+Theres
+Remember that the form is X  K that means K is two in this case
+If I plug two in what should I get for my answer if it was an X intercept
+It doesnt equal zero that is not a factor Joel
+I have a question
+Is it on task
+Yes sort of sort of sort of sort of
+I figured it wasnt going to be a direct solid yes
+Its a little bit
+I was thinking I was just plugging in some random values for X on my calculator
+When does it get to the point where its a straight line because I got it
+Wait vertical or horizontal
+Its just the equation is a straight line
+It just goes
+You mean it doesnt
+It has no curve it just
+It has no min or max its got a point of inflection
+Thats what thats called where it stops
+Isnt that the origin
+What
+Wouldnt that be the origin for that
+I dont know if its for that one it could be any place
+I just wanted to know why its something to calculate
+Except for that it would be if I
+Hes talking about if I have I cubic that does this where it does have mins and maxes it just has a point of inflection
+No I mean what it does is it goes up line up
+It looks like an undefined slope
+Ill have to look at that
+It has no slope it just shrinks
+It looks like a straight but it just hasnt really  because if it was a straight line the slope would be undefined
+Its confusing me
+I can look at it more closely after we go through these examples
+The second part of this particular example is using synthetic division
+Im asked to check this guy to see if thats a factor of this
+Im dividing this by that
+Iif I use synthetic division remember this is in the form X  K I copy down the coefficients to the fourth to the third to the second
+Theres no X to the first thats why theres a 0 there and then theres the 25
+I do my pattern of synthetic division to check that
+Now because my remainder is
+Zero
+Then thats a factor
+Is that how it works
+Joel asked me a question earlier with regards to what would be a fair test question
+If I have something that the cubic that youre asked to factor it will either be a pattern you recognize
+For example you could factor out one of the Xs and youve got a quadratic that you could factor or I might tell you that this is a factor of that polynomial
+Then I would ask you to go ahead and do synthetic division or long division either one to end up with something that then you could factor
+Well practice some of those
+Youre looking through either patterns that weve talked about today or I would give you a factor that you would divide by and what youd be left with is something you would factor
+Could be something thats in a quadratic type form could be a quadratic itself
+Looking at then this guy this is an example of that
+Show that thats a factor
+In other words this would be that type of prompt
+I have this guy Ive factored that one out and look at what Im left with
+Its the difference of two cubes so fair game
+We saw earlier we havent mastered it by any chance but we could refer back to it
+We recognize that and then we can go through and do the pattern that goes with it
+This is where youre given a factor you divide it out were left with something we recognize that we know a pattern for and then we can factor it
+Excellent type of test question for dividing polynomials and then heres an application problem
+Were going to stop here and go to the extra practice thats in the journal and were going to work on that
+A cube is a straight line
+Its actually not straight at all
+No yes
+You  four different times in the window
+Is that what it is
+Extra practice for
+Yes
+Yes
+I just
+Did you know that youre
+Yes
+Youre right
+How are we going to rewrite those
+Its and quantity and 3 and 3
+What squared equals
+This is the difference of two squares thats where we have to learn to recognize
+Thats what happens when you factor the difference of two squares
+Then this is also the difference of two squares
+Theres no factoring the sum of

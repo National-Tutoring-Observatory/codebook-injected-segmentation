@@ -1,0 +1,55 @@
+hello what would you like help with today?
+Hello I am having trouble with two questions from my AP Calc homework
+okay sure
+So the question is
+Which derivative is described by the following expression?
+I wrote the equation on the right and the answer choices on the left
+are you sure C) and D) are both g(0) and not g'(0)
+oh well i guess that doesnt matter
+so recall the definition of a derivative
+as what i just wrote
+since the limit you wrote aligns with the definition of a derivative, you know that the answer must be a derivative
+the only answer that is a derivative is A)
+furthermore
+wait but how is only a the only derivative
+like how can you prove that it is a derivative
+?
+g'(x) is the notation for derivatives
+they all have the g'(x) I just couldn't put it there because it kept messing up how the equation looked like
+oh that makes more sense
+then its B)
+so looking at the definition of a derivative
+the numerator
+aligning it with the numerator of the given
+you see that f(x) is 2^x
+or g(x) in this case
+yeah
+and instead of x, there is a 3
+so it is the derivative of g(x) at x=3
+Wait I am still confused ?
+on how i got g(x) or how i know it's x=3
+how you know x=3
+okay looking at these two equations i just wrote
+is it clear that x=3?
+like
+the function is 2^x
+is the second equation f(x+h)=2^3+h
+yes? im referring to the two equations in the box
+yeah from f(x+h)=2^3+h you got f(x)=2^3
+is it b/c you could cancel the h
+?
+yes you can think of it like that
+like you see that f(x)=2^3
+then f(x+h) is like putting (x+h) in as x
+so if replacing x by x+h gets you 2^(3+h) then you know that the original function must be 2^x
+there is no other function it could be
+does that make sense
+ohhhhh
+ok thank you
+yes im glad its clear now
+yes thank you
+is there another question?
+no I don't have another question it was just that one thank you again
+oh okay
+no problem, come back if you have any more questions :)
+ok thank you bye

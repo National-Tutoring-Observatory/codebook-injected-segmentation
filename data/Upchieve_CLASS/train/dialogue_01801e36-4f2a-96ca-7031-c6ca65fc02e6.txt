@@ -1,0 +1,107 @@
+Hi
+Hey
+So I have an expression I have to factor
+But im stumped
+ok
+What is the equation?
+Its pretty long so here it is: 5x^2+18ax+18x+16a^2+26a-35
+and you need to find out the value of x i suppose?
+No i need to factor it
+ok
+just a sec
+alright
+do you have the correct answer for this question?
+no
+my teacher said it was factorable
+thats all i know
+ok its a complex equation give me few mins more please
+alright sure
+Yes
+You there?
+I have a solution for you
+yes
+alright
+so yes its factorable
+im here
+what is the solution
+Which grade you are in?
+10th
+cool
+so lets start
+alright then
+5x^2+18ax+18x+16a^2+26a-35
+This is your equation
+yes
+which can be written as
+5x^2+18(a+1)x+16a^2+26a-35
+right?
+I just took 18 and x outside of the parentheses
+yeah
+ok
+5x^2+18ax+18x+(2a+5)(8a-7)
+sorry
+5x^2+18(a+1)x+16a^2+26a-35
+so we were here right
+this can be written as
+5x^2+18(a+1)x+(2a+5)(8a-7)
+make sense?
+yes
+feel free to ask any question you may have
+Now that we have a quadratic equation of the form
+ax^2+bx+c
+i see
+where a = 5
+b=18(a+1)
+c=(2a+5)(8a-7)
+following it?
+yes
+ok
+and plug that in to the quadratic equation
+wait no
+so we have a formula to get the factors of a quadratic equation of format ax^2+bx+c
+nvm carry on
+alright
+so the factors = [-b+ sqrt(b^2-4ac)]/2a
+[-b sqrt(b^2-4ac)]/2a
+[-b- sqrt(b^2-4ac)]/2a
+do you know this formula?
+yes
+cool
+so just plug the values of a, b and c
+in this formula
+to get the factors
+I just told you the values of a, b and c
+so when we do that
+first factor = [-18(a+1) + sqrt ([18(a+1)^2-4*5*(2a+5)(8a-7)])]/2*5
+second factor = [-18(a+1) - sqrt ([18(a+1)^2-4*5*(2a+5)(8a-7)])]/2*5
+follow it?
+yes
+awesome
+can you solve these?
+yes
+you want to do it now or later
+or let me also solve it for you
+just a sec
+so that you can verify your answer
+First root : (-8a+7)/5
+Second root : -2a-5
+yep
+so the question you had
+can be written as
+{x - (-8a+7)/5}{x - (-2a-5)}
+follow it?
+yep
+so that's your factorization
+Any questions?
+no
+that was a neat solution thanks
+You welcome
+All the best for your studies
+you too
+thanks
+alright then thanks for your help
+ill try some other problems on my hw on my own
+great .. feel free to contact us in case of any further questions
+alright
+so bye then
+Bbye

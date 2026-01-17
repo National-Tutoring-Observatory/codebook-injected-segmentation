@@ -1,0 +1,420 @@
+Wednesday
+All right
+Today Today were going to finish up materials for the test on Wednesday
+Theres really only one big idea for the new material and several smaller ideas that well go through
+But if you recall on Friday we ended up with this weve gone and done one goround for them
+I want to revisit that to help get our minds back around this
+Now the value of being able to do this is if youve been given a graph and you have to come up with the equation or youve been given the equation and youre coming up with the graph
+At the end you should be able to put the graph and the equation side by side walk through these and make sure theyre matching
+In other words this is the way you can check your answer to make sure your graph and your equation are matching no matter which direction you go from graph to equation or equation to graph
+It becomes important to understand each of the concepts
+Weve got four so were actually going to do this as a team activity but I dont want you to move your desks just leave your desks where they are
+Person number one for example would be
+Louis
+Two three four
+One two three four
+It doesnt matter if you start but person number one you have the first equation
+You dont have to go first if somebody else wants to jump in there and go first
+While youre listening to the other person you need to be doublechecking to make sure theyre getting the concepts right so that by the time you have the four gorounds everybody had been reinforced in their understanding of these ideas
+All right
+How am I going to know when youre done
+We stand up
+Stand up
+Yes
+When your team is done and youve gone through all four of those go ahead and stand up and that will just be my way of telling that you guys are on task and are done
+It doesnt matter who starts but according to your seat number youve got that equation so go ahead and get started
+The four of you guys are talking to
+Four
+Four
+Why do you have number four
+I think its one or the other so there are is it three six
+Itd be two negative one would be negative if you stick the same thing its going to be one and four
+We need to stand up
+We do
+Were going to pay attention
+All right
+Person number one survey your team
+Is there anything we need to talk about as a class
+No
+All right
+Any questions
+No we dont have any questions
+Brad
+Were good
+Were good
+Jeff
+All right anybody else have questions
+I need help with
+You got a question
+All right
+Is there a question
+Go ahead read
+Well take
+I forgot how to do that but theres
+This part right here
+Yes
+If its a linear equation do the ends of a line go in opposite directions or the same direction
+Opposite
+They go opposite so a line either goes that way and that way or that way and that way
+Now what if its a quadratic
+Its a parabola so the ends of that parabola are either pointing up or pointing down
+If its to the first degree so x to the first is a linear were doing this if its quadratic were doing this if its cubic if its quartic and it just keeps going like that right
+Yes
+Which one were you working on
+Were you working on this one
+Three
+Three
+Yes
+Okay
+Whats the degree of that one
+It is three
+Three
+Three
+Is that an odd or even number
+Its odd
+Is it going in the same or different directions
+It is going in different
+How do I know whether its going like that or like that
+If its positive or negative
+In this case this one is
+It is positive
+Positive
+Were looking at that leading coefficient basically itll be positive
+Is it doing this or this
+Its going like that
+Going like that
+Okay so if its going like that how many different directions do the cubic go
+Is it three
+If I draw my curve how many directions do the cubic go
+Two
+Four
+Three
+Four
+Three
+One two three
+Theres my direction
+All right so now read
+Now were ready to answer the question
+Yes
+As x goes to negative infinity so lets just say thats my xaxis so x is going in that direction where are my ys going
+Id like to believe down negative
+Okay
+As x goes towards negative infinity y is also going to negative infinity
+In this case as the xs get bigger and are going towards infinity my ys are going to positive infinity
+Why
+Thats for this particular one
+Okay
+All right so what youre thinking of right here is as x basically goes far left y is going down
+So whats the answer
+As x is moving towards negative infinity y is going to
+Negative
+Yes because the graph is going down like that
+If I go all the way over here as x is getting really positive what are my Y values doing
+Theyre going to positive
+Theyre getting really positive
+Do you have a question
+No
+All right
+Any other questions
+All right
+Lets be on page 98 of the journal
+Open your journal
+Thank you
+All right
+Theres ESYELL facilities
+All the Tshirts youre choosing yellow
+Grant you didnt commit and our team decided to use that system
+So he comes and watches you give us your sentence
+All right Location Principle
+Lets see how well John can read the location principle
+Go John
+Go John
+I dont know
+If f is a polynomial  and then n be  number such that
+f of a
+Hes stupid
+Im
+Youre done so quickly
+All right Layla help him out
+f0 and f0 then  a tleast one real zero between the digits
+All right now thats kind of mathy gobbledygook
+I tried to create a picture to show what this is saying
+For example if f if this y value is greater than zero then y has to be
+Positive
+This is where y is positive
+Anywhere in this pink range is where y is positive
+B could be any number positive or negative the x value but the y is going to be positive so its a point somewhere in here
+Then over here theres this function where were putting A in and our answer is always going to be a negative number
+Its some number where y is negative so its somewhere down here
+Theyre not necessarily in that order or even in these quadrants they could be here and here or there or there it doesnt matter but the idea is that there is a real zero in other words one of those things thats going to be in between the x values
+B would be here and A would be there
+Somewhere in between A and B theres an X intercept
+Why do we look at all that long explanation for a simple principle about this
+Again this is about understanding relationships of graphs and equations
+If I know that I have two points like this I know that in between them there has to be an X intercept
+If I were looking at a calculator table so weve put that into our y1 field and I notice a negative y and a positive y right here next to each other just like this was talking about a positive Y and a negative Y if I notice that in a table I know somewhere in between there the y value has to be zero
+If y is zero then what I found is an xintercept
+Thats just a way graphically using a graphing calculator
+Since as you know you cant have a graphing calculator for the test were not going to spend a lot of time on this but I wanted you to start to see that idea and this one right here
+All right lets just read number one
+Melinda could you read number one
+On the graph every point  because the outcomes are most n minus one for any
+All right
+Whats in italics up there is important
+If I have a degree and I call that degree n so now its like this
+Whats the degree in this
+Three
+Probably three right
+One two three directions
+If n is three 31
+Two
+Two points
+Two
+I have one two turning points
+Its at most two because yx3 would actually be something that looks like that and we dont really see a turning point we see a little shift happening but it doesnt really turn all the way around
+Thats why that italicized word becomes important
+If n is three I have at most n minus one or two turning points
+Any questions on that one
+Faith could you read number two please
+If a polynomial approaching  n distance through zero  is graphed as exactly n minus one turning points
+A zero they use that term a lot but it just simply means an
+xintercept
+Xintercept
+If I have three xintercepts 31 is
+Two
+I have exactly two turning points
+What would the degree of this likely be
+Four
+Four
+Four
+41 is
+Three
+41
+Three
+It has one two three turning points and this could be a one two three four five fifthdegree
+It has exactly
+Six
+51
+Four
+Four turning points so we see one two three four
+Remember the other terminology that we used because theres more than one max we would call this a local max
+Theres a maximum in this general location right in here but theres also another one over here so I got a local max here and a local max there local mins as well
+Thats how some of that vocabulary works together
+Again concepts of relating graphs and equations is together
+Next topic is something called even and odd functions
+Now this specifically is in the 38 homework thats due tonight
+The homework for 38 and three nine
+Thats one clever assignment
+15 questions
+15 questions thank you
+Its due tonight by midnight
+There are some problems like this that youll be working on
+First read this disclaimer right here
+Weve talked about even and odd degrees but this is about even and odd functions
+Totally different terminology so we dont want to confuse them
+The idea is if I have something called an even function its symmetric about the yaxis
+When I look at this one right here if I fold my graph over on the yaxis thatll lay right on top of the other half of it
+Thats called an even function
+An odd function is if its symmetrical about the origin
+For example on this guy right here if I could kind of break it off right here and rotate this part around 180 degrees it would lay on top of that one
+In other words I can kind of spin this on the origin symmetrical about the origin and itll lay on top of itself at some point
+Theres those two cases of an even and odd but theres also cases that neither is true
+We end up having three different answers as possibilities to a prompt that asks if its even or odd or neither
+How we test that is in the red box here
+In both cases I take my function and I plug in negative x in the place of x
+Then I see if I end up with what I started with and I started with f I put in a negative x for x but if I end up with the same thing it is an even function symmetrical about the yaxis
+For this guy I do exactly the same thing but my result is that I get basically the opposite of the original function
+So in other words all of the signs have changed from positive to negative or negative to positive
+If you want to turn in your book to page 171 theres this example but were also going over it on the board but if you want to follow it in your book
+Were going to start with this guy
+In all cases says whenever I come to the x I put a parentheses
+In other words Im going to put in a negative X in the place  Oops nothing there
+This is the idea right here
+When I see the x I just simply make parentheses and my negative x goes in there
+Thats what you see happening right here
+We just stuck that in
+Now if I do a negative times a negative times a negative I end up with a
+Negative
+a negative x3
+Notice how that has changed from this by putting that in
+A negative times a negative here gives me the positive 7x there
+Now I look at this and I ask myself Is there any way I can rewrite that to look like that
+It turns out notice how the signs are just simply the opposite right here
+I can rewrite this by taking that negative sign out to be like factoring a negative one
+This was my original f so its the opposite of f or the negative f
+Its an odd function its symmetrical about the origin
+How does it look for these other functions
+Again first step in the place of x I just put a parentheses and then I go and I stick in a negative x somewhere right here
+If I multiply a negative times itself four times what do I end up with
+Positive
+That ones two times so how does that compare with what I started with here
+Its the exact same
+Its the exact same thing
+Yes
+so that one is an even function it reflects right over the yaxis
+Then the last one that were looking at the answer is going to be neither
+When I plug this in and I multiply it by itself three times its still a negative x3
+Im not changing that plus two its right there
+When I compare these two theres no way of factoring out a negative and getting back to this
+I cant get back to this from that expression so thats neither
+It doesnt have either symmetry about the yaxis or around the origin
+Remember example four so that if you need to refer back to a model when you hit those questions on the homework assignment you can just walk through that process there
+Right
+Questions right now on that
+Yeah
+Yeah Bens here
+So I dont have to  to do it with negative or positive
+Right
+Yes
+Okay
+Any other question
+Thats it for 38
+Were going to leave that just one key idea that we have to get in 39
+In your journals if youd open thumbs up to 39
+I want to go home
+I know
+All right if youre the hallway partner All right hallway partner
+Im aware its you
+Tell your window partner what a polynomial model really means
+What are they asking for here
+All right
+If Ive got reallife data whats the model going to look like
+Its in the form of an
+Graph
+Graph
+Equation
+Thats what I got
+In other words were trying to find an equation that matches the data
+This is all about finding an equation
+The only skill were going to cover is example number one
+This is only in the textbook if you want to pull it out
+All right page 176 if youre going to look in your books
+All right this is a similar situation as weve done with quadratics where youve been given some information about some points that are on the quadratic and how to come up with that quadratic equations
+Only now were taking it to a cubic
+For a cubic I might just have three factors
+Now on cubic though if I ended up multiplying all of this out my leading variables should be x3
+Now there might be some numbers here and a whole bunch of stuff after it but were looking for that x3 because its a cubic function
+If you wanted to think of it as the fact that you actually have three factors because multiplying X times X times X is what would give x3
+Generically youre starting with a function thats going to have three factors and so if I look here and find my Xintercepts I can drop those right in to that red format
+To remember its an X minus K type format
+X minus negative four negative four was the actual Yintercept
+I wouldnt leave it like that I would write that as X plus four but
+you can see that the red represents the standard way of starting
+Now with these Xintercepts there are a lot of different cubics that could have those same X intercepts
+For example I could have a cubic that does that and still goes through the exact same Xintercept
+That means there has to be some sort of modifier as to whether or not its like this red one which is positive the blue one which is a negative reading coefficient so we have to find that Avalue
+To find that Avalue we have to have some other point to put in
+It may be a Yintercept or maybe its another point on the line
+For example this point might just be four
+Lets see is that negative 12
+4 6 8 10 12 14 7 negative 14
+It could be one where we have to look at a graph and go Oh you know what
+Thats right all those crosshairs of the grid so I can know with some confidence
+What do I do with that equation
+I take my Y value and put it in here and I put my X values in the place of all of those and calculate it out
+Now this particular example though theyve told us what the Yintercept is
+When I make all those X is zero it makes my calculations pretty easy
+I dont have any big numbers that I have to be working with
+The whole idea here is I plug in another point a different point it cant be an X intercept its got to be some other point that I plugin for Y and for X solve for A and then rewrite my equation
+Now when youre looking at any constructedresponse problems that have this kind of thing on the test pay close attention to the prompt
+Does it tell you what kind of form to leave your answer in
+If it doesnt tell you then leave it this way because that simple but if it says standard form you got to multiply that out and put it in standard form
+If I have or lets say its actually this way I have four I will make that a negative one half like that half
+If Im multiplying four things together how do I multiply four things together
+In whatever order you want because multiplication can go in any order but pick two things and come up with your answer
+Copy the next parts down pick two things
+Come up with your answer multiply those last two things to get your answer
+Now heres what we started class with
+Remember I told you if youre given a graph and you have to come up with the equation or youre given the equation you got to come up with the graph this is your thought process to check to see if youre getting the right answer
+Understanding this as your thought process when youre done either direction whether from graph to equation or equation to graph
+Everybody has got a book you know thats on page 176 if you need to refer to that and heres the toolkit and heres our practice problems
+Ill just get rid of the answers for right now
+All right so this is in a journal page 104
+Youve got until lets say the bell at 202 so you got to the bell at 202 to figure out the exact equations for these four to step four problems
+Then well take a break for five minutes and then do the quiz
+I will Im so sorry
+All right
+Ladies and gentlemen the answers to those first four are on the board
+Thats it
+I just want you to work on those first four and then you can work on the toolkit
+If youve got questions
+That was a joke
+All right guys
+Youve just got the two more minutes before the bell then we have a fiveminute break and then were going to start the quiz
+All right guys we need to split the desks up
+You guys will stay right where youre at but everybody here needs to move over to the wall
+All right guys lets go
+We got to get set up
+If youre in this row just move your desk one tile over beyond that tile line right here
+If youre here youll just move one tile over this way
+You guys can stay where youre at and the rest of you just go all the way over to the
+All the way
+Ladies and gentlemen you can use your toolkit and get that green one that you used last week
+You could use that one
+Theres no calculator no textbook no journal
+Then Byron you guys need to be all the way against the wall and you need to give Alex a little more space
+Lets get that stuff put away
+Phones need to be off and off of you so not in your pocket not in a jacket
+In your backpack
+In your backpack is fine and dandy
+Let me just get rid of those
+Dont forget to clean up your
+If youve got a microphone on your desk if you would go ahead and turn the microphone off and then put the microphone on my desk
+in here should we just leave it there
+No we need to put it on my desk
+Thanks
+Youre welcome
+Put that away
+Okay
+Yes
+Because I dont think it was in there
+Okay
+Okay
+Thank you Thea
+Thank you
+Youre welcome
+Thank you
+Thank you
+Youre welcome
+If you guys would scooch over a little bit further
+Thank you so much
+Just these two things
+Everything else needs to go
+Since you guys are not in alphabetical order if you would come pick up your scantron for me
+Brad Maddy Louis Melinda Miriam Lizzie Camilla
+Leon Miriam Beckham Caden Killian Ana Antonio Julie Zane Nick
+Sienna Layla Colin Angela Noelle Jeff John Byron and Ellie
+Noah James Evie Amy Sofia
+It is 214 and you have 12 multiplechoice questions
+It might not be a bad idea to put the time at the top of the paper that youre starting at 214 and then write your finish time and figure out how long did it take you to do the 12 multiple choice
+Kind of tells you How am I going to do on Wednesday when I have 20 multiple choice
+Do I need to pick up some skills and figure out how to move a little faster or am I okay
+Yes
+Are these all level two questions
+Yes they are all level two type questions
+Yes
+Theres no level threes
+No level threes of fours on this
+What time is it
+It is 214
+Just because she says it doesnt mean he hears it
+That was probably the most important lesson I learned in teaching
+Is what
+How to not take it personal when I said something three or four times and somebody says What time is it
+Sometimes people are just so stupid
+Like you
+Yes
+We all zone out every now and then
+No biggie
+Highly recommend that you show your work on this so that if you get it right you know how to do it
+If you get it wrong you know what to look at and figure out what went wrong
+Whether you do it right or do it wrong its good to show your work
+If you would go ahead and put that version on the scantron so that we just get that out of the way and have that done
+Bubble in the version
+When youre done youve go time to go ahead and either work on the online homework so you can get out computers and phones and stuff like that once youve turned in your quiz or be working on the tool kits
+Remember tool kits are due tomorrow
+Im sorry
+the rest of the time
+Yes if you need the rest of the time
+It turns out I think in about a halfhour everybody was done in the previous class so it actually work out fairly well
+I was happy with that

@@ -1,0 +1,223 @@
+All right ladies and gentlemen
+You should have your journal in front of you
+All right right now the plan for that quiz is probably to requiz Monday
+I would highly recommend that you go through those  between now and Wednesday
+Lets see
+Both Amara and Cassidy and Briella are all in the photo here from yesterdays swim meet
+Its cool
+Do you guys
+All right
+You should be on page 95 in your journal
+Lets get on page 95
+Were almost a third of the way now
+There you go
+A third sounds about right
+All right eyes upfront please
+In red up here instead of calling things turning points what have we been calling them
+Vertices
+Not zeros because zeros are Xintercepts
+Remember for polynomials how many of these vertices do we have
+As many as you want
+Yes
+Yes
+There could be more than one
+We dont call them vertices we call them
+Turning points
+Turning points
+We use the word local
+Local min and max
+Local min and max
+What weve been calling this has been local mins and maxes
+Same idea a turning point
+What could you say happens at a turning point
+In your teams talk about some ideas
+What happens at a turning point
+A change in direction
+Lets say its going down
+Right
+Has the idea of a direction change
+The slope is changing
+Were going from maybe going down to going up
+We want to talk about those a little bit
+There is just one exploration here
+Lets see
+Seth could you read the instructions from the board for exploration one
+Work with a partner
+At each polynomial function with its graph  points of the graph of the function
+Round your answers to the
+nearest onetenth
+All right
+The idea here is that everybody learns how to find the local mins and maxes using a calculator
+Everybody should grab a calculator either your own or one out of the cabinet
+If you dont have enough for everybody then take turns working with that
+Are we going to have a little section on the test because we were thinking about
+No
+I still want to make sure you know how to do this
+Yes yes
+You originally wanted this test to have a calculator section
+I lost you
+You cut to the chase
+It was exactly what I was wondering
+Miss  should have a say in this
+Were the ones
+The thing here is concepts
+Can you properly understand the concept
+No I cant
+Well between now and Wednesday I hope your answer changes
+Sometimes I have to check if Im right
+Heres the problem with a multiplechoice question
+I might say give you a thing like X2  5X2 and ask you to do something with that
+Or whats the Yintercept
+Well because you could use a calculator and figure that out not that you wouldnt know it anyway but then I have to figure out well how do I mask a specific case and ask a question thats a general case
+Then I would have to say Well if the polynomial is in the form ABX  times CD how would you determine what the Yintercept is
+The question actually becomes harder which is not a bad thing necessarily
+Yes
+Yes
+Maybe its just a regular graph on the level three
+I dont know why thats an issue
+Some Ms Saunderss say Well I didnt have a classroom sample
+Figure out how to get a sample
+I have so many
+All right
+Start by figuring out how to match them
+Dont use the calculator to match them
+Use the calculator to check your
+For A and not C
+Is there  as
+I have not seen that there wasnt
+Though I could die
+I wish it would keep snowing
+Ladies and gentlemen the answers are on the board
+See if you can improve either exploration one or improve what you wrote for the communicate your answer
+All right eyes up front please
+Were going to move into the first concept summary
+Youll see this in your journal
+If you would go and just flip over to the one that says zeros factors solutions and intercepts
+What Id like you to do is simply go round the table each person taking a turn starting with the opening paragraph and walking down through each of these
+Then also talk about what a root means
+Lets have the person closest to the door start
+Go ahead and start with the intro to that
+Lets wait until we are done with our discussion here if you dont mind
+Ladies and gentlemen open up your textbooks to page 168
+Page 168
+Textbook page 168
+Eyes at upfront please
+Example one
+Brad could you read the title of example one
+Push the title
+Using
+Amara read the function itself
+What function
+Yes
+Yes
+Which one
+F of X equals
+F and X equals AX
+Are on page 168
+F of X equals
+All right
+Below what are the Xintercepts
+The Xintercepts are 3 and 2
+Brandon what happens at two for this particular one
+What happens at two for that particular one
+It starts increasing
+It starts increasing so it goes from decreasing to increasing
+What else would you say Caitlin
+What happens when X equals two
+The graph will get thinner
+The graph will get thinner
+Aiden
+It hits a local minimum
+It hits a local minimum and its a turning point
+Whats also true about that what have we said right from the beginning
+How did we describe whats happening right here
+After 1X
+We use that term that its bouncing so it represents multiplicity
+So in your teams talk about what does multiplicity mean what we have multiples of talk about it in your team
+Well if this is called multiplicity what do we have multiples of
+Of zeros
+We have multiple zeros
+We have multiple zeros that are equal
+We have more we have multiplicity
+Anytime that we have a exponent here weve got multiplicity
+We have multiple roots factors Xintercepts that are identical
+What happens if its an even number
+It bounces off
+It bounces off
+Were making that connection here
+Now some of you during the quiz had asked me is it okay that we just draw these turning points in wherever
+If I know that thats a Yintercept and thats a Xintercept could I just come up here and come down there
+Or could I come up way high and come down through that there
+We didnt talk about how just figure out the shape that goes in between those Xintercepts
+Now whats the simple solution
+Plotting points
+Yes
+Yes
+Pick a couple of points in between
+If I know that those are my two Xintercepts lets pick up enough points that we can characterize what that curve looks like to be more accurate
+All right weve talked about end behavior a lot
+Brad what do we look for with regards to end behavior
+What tells us what end behavior is
+If its going up and down
+Up and down
+What would I look at in this to tell me about my end behavior
+If the X value is positive
+Tell me how I figure out that the X value is positive
+The leading coefficient
+Theres my leading coefficient
+If I multiply this times this times this because theres two I still have a positive leading coefficient
+Andy whats the positive leading coefficient tell me
+Onesixth
+Yes the one six
+What does that tell me
+It tells you that its going to be straight on the vertical
+Okay so how about the end behavior
+How does that tell me about end behavior end behavior
+Think about that
+At the ends you think
+infinity
+Okay lets just take that first statement as X does what
+As X goes towards infinity whats happening to Y
+You cant really go towards a number that doesnt exist because its
+Sure you can
+You just keep going
+Because its just a little bit bigger and just a little bigger and just a little bigger
+Youre not getting any closer to it though
+Youre still going for towards it
+It does tell you about direction
+It goes infinitely
+What would the next statement then be Ethan
+As X goes towards negative
+Why dont you just say as X decreases Y increases
+Thats a specific format for end behavior
+It is yes
+In fact if you look in the textbook youll see that they use that format over and over to talk about end behavior
+You see its looking kind of like this
+This is what I would like you to talk about
+In your teams take a look at everybody knows goes and youre going to be the starter for this
+Youll take that first bullet and just answer them and then just go around your team taking each of those and answer it
+Go ahead and get started
+What caused Y to be zero
+Those are my Xintercepts
+Because I have 2 I have X2 and X2
+I have the solutions 3 two and two
+Its repeated
+So theres a different characteristic here
+Were bouncing off the Xaxis with an even value and itll go through if its odd
+All right so most of us are in groups of four
+Those of you that arent you have to adjust
+I want each of you to take in one of these and walk through all of the sentence steps
+Right so youre going to take turns
+Somebody can just choose to start with number one and talk about all of those and so give that person feedback
+Are they on track
+Do they need some coaching to change the answer here
+Go ahead and decide who starts this is important
+Im really sorry for being annoying
+All right ladies and gentlemen any questions on these
+Is there any way you can
+From these whats always true about the Yintercept
+In other words 12x1x4x4
+Theyve gotten rid of the square
+All right well pick up on Monday  finishing this
+Also do 39 on Monday
+If you would please turn off the microphones but leave them in the book
