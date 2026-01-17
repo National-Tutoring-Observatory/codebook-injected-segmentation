@@ -72,7 +72,7 @@ bash src/run_segmentation.sh
 ```
 *Note: You may need to adjust the `DATA_DIR` and `OUT_JSON` variables inside `src/run_segmentation.sh` to match your desired input/output.*
 
-### 2. Training Neural Models
+### 2. Training coherence-based models
 **Attribution**: The `Dial-Start` model is adapted from [AlibabaResearch/DAMO-ConvAI](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/dial-start). We have added a variant using Retrieval Augmentation.
 To train the segmentation models:
 
