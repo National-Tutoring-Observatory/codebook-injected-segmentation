@@ -1,6 +1,6 @@
 # Codebook-Injected Segmentation
 
-This repository contains the code and data for injecting expert codebooks (taxonomies) into dialogue segmentation models. It allows for both LLM-based segmentation and training of neural segmentation models (MoveRAG, Dial-Start).
+This repository contains code for codebook-injected dialogue segmentation and gold-label-free evaluation. It includes LLM, retrieval-augmented, and coherence baselines, plus metrics for span consistency, boundary distinctiveness, and human–AI distributional agreement showing consistent trade-offs and motivating downstream-optimized segmentation.
 
 ## Project Structure
 
